@@ -1,0 +1,1917 @@
+[
+  {
+    "name": "María Zambrano",
+    "city": "Vélez-Málaga",
+    "coords": [36.7820, -4.1000],
+    "category": "Pensadora",
+    "bio": "Filósofa española y una de las pensadoras más influyentes del siglo XX, creadora de la 'razón poética'.",
+    "born": 1904,
+    "died": 1991,
+    "areas": ["pensamiento", "filosofia"],
+    "epoch": "1900-1950",
+    "slides": [
+      {
+        "title": "Un hogar donde pensar era respirar",
+        "text": "María Zambrano nació en Vélez-Málaga en 1904, en una familia profundamente comprometida con la educación. Siendo muy pequeña se marcha con su familia a Segovia, donde su padre, Blas Zambrano, trabaja como maestro y entabla una amistad profunda con el poeta Antonio Machado. Aquella casa, llena de libros, tertulias y conversaciones sobre justicia y belleza, sembró en María la intuición de que pensar no era un ejercicio abstracto, sino una forma de estar viva.",
+        "quote": "La infancia es la patria de donde nunca se parte del todo.",
+        "image": "maria zambrano.jpeg"
+      },
+      {
+        "title": "La joven que buscaba una verdad que también sintiera",
+        "text": "En Madrid estudió con Ortega y Gasset y Xavier Zubiri, pero pronto sintió que la filosofía académica dejaba fuera lo esencial: la emoción, la vulnerabilidad, el dolor humano. En contacto con la Generación del 27, comenzó a imaginar una filosofía más humana, más abierta al misterio. Así nació la razón poética.",
+        "quote": "La claridad es la pasión del pensamiento.",
+        "image": "maria_27.jpeg"
+      },
+      {
+        "title": "El amor prohibido",
+        "text": "Antes de cumplir los veinte años, María vivió un amor prohibido con su primo Miguel Pizarro. Entre 1917 y 1921 compartieron una relación íntima e intensa, marcada por la complicidad intelectual y el descubrimiento emocional. La familia, al enterarse, intervino de inmediato: separaron a los jóvenes y enviaron a Miguel a Osaka (Japón), donde trabajó como profesor de castellano en la universidad. Aquel amor imposible dejó una huella profunda en la sensibilidad de María y en su manera de concebir el vínculo humano.",
+        "quote": "La vida solo se sostiene desde el amor.",
+        "image": "Miguel-pizarro.jpg"
+      },
+      {
+        "title": "Cuando filosofar era un acto de valentía",
+        "text": "Durante la Segunda República, María se convirtió en una de las voces intelectuales más relevantes. Defendió la dignidad humana, la educación y la justicia. Escribió en revistas, participó en movimientos culturales y se convirtió en referente republicano. Sus ideas y su independencia la volvían incompatible con el avance del fascismo.",
+        "quote": "Pensar es desobedecer.",
+        "image": "exilio_maria.jpeg"
+      },
+      {
+        "title": "Exiliada por sus ideas… y por ser una mujer libre",
+        "text": "El exilio de María Zambrano en 1939 no fue solo la consecuencia de una derrota política, sino la expresión de una doble amenaza que ella representaba para la dictadura franquista: su pensamiento republicano y su modo de ser mujer. En un régimen que imponía silencio, obediencia y domesticidad a las mujeres, María se había convertido en lo opuesto: una filósofa independiente, una intelectual con voz pública, una mujer moderna, viajada, sin hijos, dedicada a la enseñanza, la escritura y la vida del espíritu. Tras la victoria franquista, su vida corría peligro no solo por lo que defendía, sino por lo que encarnaba.\n\nDurante más de cuarenta años vivió en Francia, México, Cuba, Puerto Rico, Roma y Suiza. Ese exilio prolongado, lleno de pobreza, soledad y desplazamientos, se transformó en el territorio interior desde el que escribió sus obras más profundas. María comprendió que el exilio no es solo un hecho histórico, sino un estado del alma: una búsqueda constante de sentido y de hogar. Su pensamiento sobre la libertad, la democracia y la dignidad humana se forjó en esa fractura entre pertenecer y no pertenecer.\n\nDesde el destierro creó la razón poética, una filosofía que une emoción y lucidez, memoria y revelación. Dio lenguaje al desarraigo, denunció los totalitarismos sin renunciar a la ternura y defendió que toda política debe sostener la vida humana o deja de ser política. El exilio la convirtió en una de las voces más originales del siglo XX, capaz de transformar el dolor en comprensión y la pérdida en claridad.",
+        "quote": "El exilio es el perpetuo estar sin sitio.",
+        "image": "feminismo_maria.jpeg"
+      },
+      {
+        "title": "Cuarenta años buscando un lugar al que volver",
+        "text": "Vivió en Francia, México, Cuba, Puerto Rico, Roma y Suiza. En México inspiró a generaciones intelectuales; en Cuba trabajó junto a poetas; en el Jura francés, aislada y en pobreza, escribió obras decisivas. El exilio se convirtió en su territorio espiritual y filosófico.",
+        "quote": "Nada es mío si antes no me ha sido arrebatado.",
+        "image": "Maria_cuba.jpeg"
+      },
+      {
+        "title": "Obras que cambiaron la forma de pensar",
+        "text": "Sus obras son puentes entre razón y poesía: 'Filosofía y poesía', 'El hombre y lo divino', 'Persona y democracia', 'Claros del bosque', 'La tumba de Antígona'. Propuso una manera nueva de pensar, abierta a la emoción, al símbolo, a lo sagrado y a la fragilidad humana.",
+        "quote": "La filosofía no ha de renunciar a la ternura.",
+        "image": "maria_speak.webp"
+      },
+      {
+        "title": "La primera mujer en recibir el Premio Cervantes",
+        "text": "Tras décadas de olvido en España, su grandeza empezó a ser reconocida. En 1981 obtuvo el Premio Príncipe de Asturias y en 1988 se convirtió en la primera mujer en recibir el Premio Cervantes. Su regreso a España cerró un arco de destierro, retorno y reparación.",
+        "quote": "Solo lo que no se ha podido dejar de querer, aun queriendo, nos pertenece.",
+        "image": "maria_cervantes.jpeg"
+      },
+      {
+        "title": "Curiosidades",
+        "text": "Siempre llevaba un cuaderno donde anotaba sueños.\nVivía rodeada de gatos en el Jura francés.\nEra extremadamente tímida en público.\nPrefería hablar en voz baja.\nNo creía en sistemas filosóficos cerrados.\nAdmiraba el silencio y los espacios intermedios.\nSu cuerpo está enterrado en su localidad natal, entre un limonero y un naranjo, con la frase del Cantar de los Cantares: “Surge amica mea et veni” (“Levántate, amiga mía, y ven”).",
+        "quote": "Pensar es empezar a agradecer.",
+        "image": "premio_maria.avif"
+      }
+    ],
+    
+    "quiz": [
+  {
+    "question": "¿Qué concepto filosófico creó María Zambrano?",
+    "options": ["Razón poética", "Existencialismo", "Neopositivismo"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es una de las obras más importantes de María Zambrano?",
+    "options": ["El hombre y lo divino", "La náusea", "Ser y tiempo"],
+    "answer": 0
+  }
+]
+
+},
+
+{
+  "name": "Victoria Kent",
+  "city": "Málaga",
+  "coords": [36.7213, -4.4214],
+  "category": "Activista",
+  "bio": "Pionera del derecho y la política en España, defensora de un sistema penitenciario humano y símbolo del exilio republicano.",
+  "born": 1892,
+  "died": 1987,
+  "areas": ["derechos", "justicia", "politica", "feminismo"],
+  "epoch": "1900–1950",
+  "slides": [
+    {
+      "title": "Una niña que soñaba con justicia",
+      "text": "Nació en Málaga en 1892, en una familia de ideas liberales, y desde joven destacó por su interés por el estudio y la justicia. Se trasladó a Madrid, estudió Derecho y se convirtió en una de las primeras mujeres abogadas de España, algo casi impensable para una mujer de su época.",
+      "quote": "Yo no quiero que la mujer sea un reducto de sufrimiento, sino una fuerza de libertad.",
+      "image": "vic_joven.jpeg"
+    },
+    {
+      "title": "La primera española que ejerció la abogacía",
+      "text": "En 1924 se colegió como abogada y abrió un despacho propio, llegando a ser la primera española que ejerció la abogacía de forma profesional. En 1930 fue la primera mujer en el mundo en intervenir como abogada en un consejo de guerra, logrando la absolución del acusado y ganando una gran fama pública.",
+      "quote": "No nos hace gracia.",
+      "image": "vic_abogada.jpeg"
+    },
+    {
+      "title": "El debate que dividió a dos pioneras",
+      "text": "En 1931, durante la redacción de la nueva Constitución republicana, Victoria Kent protagonizó un histórico debate con Clara Campoamor acerca del sufragio femenino. Aunque ambas eran feministas y defendían la igualdad, Kent argumentó que el voto de las mujeres debía posponerse: temía que, en un país aún muy influido por la Iglesia y con gran parte de la población femenina sin acceso a la educación, el sufragio pudiera frenar las reformas democráticas recién iniciadas. Campoamor, por el contrario, defendió que ningún derecho debía retrasarse y que la libertad se ejerce practicándola. Aquel choque fue intenso y marcó para siempre la memoria política de ambas. Con el tiempo, historiadoras han resaltado la complejidad del contexto social del momento y la sinceridad de las dos posiciones.",
+      "image": "vic_voto.jpeg"
+    },
+    {
+      "title": "Una política que quería transformar el país",
+      "text": "Durante la Segunda República fue elegida diputada por Madrid, una de las tres primeras diputadas de la historia de España, y participó en intensos debates sobre derechos de las mujeres y democracia. En 1931 fue nombrada directora general de Prisiones y revolucionó el sistema penitenciario: mejoró la alimentación, amplió permisos familiares, introdujo la libertad de culto, retiró grilletes y cadenas, cerró más de cien cárceles en malas condiciones y promovió la Cárcel de Mujeres de Ventas como centro “modelo” sin celdas de castigo.",
+      "quote": "No hay delito que justifique la pérdida de la dignidad.",
+      "image": "vic_prision.avif"
+    },
+    {
+      "title": "Guerra, derrota y un exilio que la cambió para siempre",
+      "text": "La Guerra Civil y la victoria franquista la obligaron a exiliarse: pasó por Francia y México, donde fundó una escuela para formar personal penitenciario y dio clases de Derecho Penal. Más tarde se instaló en Nueva York, donde trabajó para la ONU estudiando las prisiones de Iberoamérica.",
+      "quote": "Mi patria es allá donde puedo servir",
+      "image": "vic_3.webp"
+    },
+    {
+      "title": "Una historia de amor en Nueva York",
+      "text": "En Nueva York, en los años 50, inició una relación afectiva y de compañerismo profundo con Louise Crane, una filántropa estadounidense vinculada al mundo cultural. Vivieron juntas durante décadas, compartiendo proyectos, amistades y militancia democrática; hoy muchas historiadoras hablan abiertamente de una pareja de mujeres cuyo amor se mantuvo firme mientras la dictadura borraba su memoria en España.",
+      "quote": "...",
+      "image": "vic_louise.jpeg"
+    },
+    {
+      "title": "Un legado que sigue abriendo caminos",
+      "text": "A lo largo de su vida fue reconocida en el ámbito jurídico y político: fue miembro de la Real Academia de Jurisprudencia y Legislación y de la Asociación Internacional de Derecho Penal, algo muy excepcional para una mujer de su tiempo. Recibió la Cruz de Lorena por su participación en la Resistencia francesa y, ya al final de su vida, la Orden de San Raimundo de Peñafort en 1986 por su contribución al Derecho. Después de su muerte han surgido premios con su nombre, como el Premio Nacional Victoria Kent en el ámbito penitenciario y galardones universitarios que reconocen investigaciones feministas, lo que mantiene vivo su legado.",
+      "quote": "La historia nos juzgará, pero la conciencia debe guiarnos",
+      "image": "vic_prision.jpeg"
+    },
+    {
+      "title": "Sus últimos días",
+      "text": "Pasó sus últimos años en Nueva York, en compañía de Louise Crane, con salud delicada tras una fractura de cadera y problemas neurológicos que la dejaron muy limitada físicamente. Murió en Nueva York en septiembre de 1987, a causa de problemas cardiovasculares (se recoge como infarto agudo de miocardio y complicaciones previas), y fue enterrada en Estados Unidos.",
+      "quote": "Los hombres siembran sus ideas antes de morir por ellas, y las ideas escapan a la muerte.",
+      "image": "vic_mayor.webp"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué logro profesional convirtió a Victoria Kent en una pionera de la abogacía?",
+      "options": [
+        "Fue la primera mujer en ejercer la abogacía de forma profesional en España",
+        "Fue la primera mujer en dirigir una universidad",
+        "Fue la primera mujer en aprobar oposiciones judiciales"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Con quién protagonizó Victoria Kent el famoso debate sobre el sufragio femenino en 1931?",
+      "options": [
+        "Clara Campoamor",
+        "Dolores Ibárruri",
+        "Margarita Nelken"
+      ],
+      "answer": 0
+    }
+  ]
+  
+},
+
+{
+  "name": "Teresa Azpiazu y Paul",
+  "city": "Cádiz",
+  "coords": [36.5297, -6.2920],
+  "category": "Educación",
+  "bio": "Pionera de la educación femenina y la primera mujer concejala del Ayuntamiento de Málaga, referente del feminismo moderado de su época.",
+  "born": 1862,
+  "died": 1949,
+  "areas": ["educación", "politica", "feminismo", "cultura"],
+  "epoch": "1880–1940",
+  "slides": [
+    {
+      "title": "Un origen gaditano para una vida malagueña",
+      "text": "Teresa Azpiazu y Paul nació en Cádiz en 1862, pero desarrolló casi toda su vida en Málaga, ciudad donde vivió durante medio siglo y donde dejó una huella profunda en la educación y la vida cultural. Desde muy joven destacó por su inteligencia, su disciplina y su pasión por la enseñanza.",
+      "image": "te_perfil.jpeg"
+    },
+    {
+      "title": "Una maestra que abrió caminos",
+      "text": "Estudió Magisterio y obtuvo el título de Maestra Superior siendo muy joven. Su ambición intelectual la llevó a Madrid para seguir formándose y a los 18 años ya había fundado su propio centro educativo, un logro extraordinario para una mujer nacida en 1862.",
+      "image": "teresa_maestra_joven.jpg"
+    },
+    {
+      "title": "Transformando la Escuela Normal de Málaga",
+      "text": "En 1901 ganó por oposición una plaza de profesora de Letras en la Escuela Normal Superior de Maestras de Málaga, y entre 1914 y 1927 la dirigió con gran prestigio. Bajo su liderazgo el centro se convirtió en un referente de formación femenina. Entre sus alumnas destacó una futura figura clave: Victoria Kent.",
+      "image": "teresa_normal.jpg"
+    },
+    {
+      "title": "Una defensora de la educación de las mujeres",
+      "text": "Teresa impulsó activamente que las niñas de clases humildes pudieran estudiar. Organizó un 'ropero escolar' para que ninguna alumna dejara de asistir por falta de ropa o materiales. Su labor social y educativa la convirtió en una maestra muy querida, exigente y profundamente humana.",
+      "image": "teresa_educacion.jpg"
+    },
+    {
+      "title": "La primera mujer concejala de Málaga",
+      "text": "En 1924 el alcalde José Gálvez la invitó a entrar en la vida política municipal. Con más de sesenta años aceptó el reto y se convirtió en la primera mujer concejala del Ayuntamiento de Málaga. Desde su cargo trabajó en educación, salud pública y servicios sociales.",
+      "image": "teresa_concejala.jpg"
+    },
+    {
+      "title": "Educación y justicia social desde el Ayuntamiento",
+      "text": "Como concejala apoyó la creación del Instituto Malagueño para Ciegos, Sordomudos y niños con discapacidad, defendió la escolarización universal y promovió iniciativas para que la educación llegara a quienes más lo necesitaban. Fue una pionera que abrió la puerta de la política a las mujeres malagueñas.",
+      "image": "teresa_ayuntamiento.jpg"
+    },
+    {
+      "title": "Feminismo moderado, cultura y pensamiento",
+      "text": "Aunque católica y conservadora en lo personal, Teresa defendió que las mujeres debían estudiar, trabajar y participar en la vida pública. Escribió artículos, impartió conferencias y fue una de las primeras mujeres aceptadas en la Sociedad Malagueña de Ciencias. Su feminismo moderado representaba a una generación de maestras transformadoras.",
+      "image": "teresa_feminismo.jpg"
+    },
+    {
+      "title": "Reconocida por su vida de servicio",
+      "text": "Su trayectoria fue ampliamente respetada en Málaga. En 1930 recibió la Medalla de Plata al Mérito en el Trabajo, un reconocimiento oficial a su labor educativa y social. Murió en Málaga en 1949, dejando un legado que hoy recuperan instituciones y colectivos feministas.",
+      "image": "teresa_reconocimientos.jpg"
+    },
+    {
+      "title": "Historias que se cuentan de ella",
+      "text": "Entre las anécdotas más recordadas está la lucha que dio en el Ayuntamiento para que dos mujeres, Inocencia Tomé y Carmen Montosa, pudieran presentarse a unas oposiciones municipales en igualdad de condiciones. Otra historia recuerda cómo, pese a los problemas de salud, aceptó entrar en política porque 'aún tenía mucho que aportar'.",
+      "image": "teresa_anecdotas.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué cargo histórico ocupó Teresa Azpiazu en 1924?",
+      "options": [
+        "Fue la primera mujer concejala del Ayuntamiento de Málaga",
+        "Fue la primera mujer rectora en España",
+        "Fue la primera directora de prisiones"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué papel tuvo Teresa en la formación de futuras mujeres pioneras?",
+      "options": [
+        "Fue directora de la Escuela Normal y formó a mujeres como Victoria Kent",
+        "Dirigió la prisión de Ventas",
+        "Fundó la primera escuela de ingeniería femenina"
+      ],
+      "answer": 0
+    }
+  ]
+},
+
+{
+  "name": "María Silva Cruz “La Libertaria”",
+  "city": "Casas Viejas (Cádiz)",
+  "coords": [36.3443, -5.8125],
+  "category": "Activista",
+  "bio": "Superviviente de los Sucesos de Casas Viejas, militante anarquista desde la adolescencia y símbolo de la represión franquista. Nacida en una familia jornalera y analfabeta, su vida breve y trágica marcó la memoria popular andaluza.",
+  "born": 1915,
+  "died": 1936,
+  "areas": ["anarquismo", "movimientos sociales", "memoria histórica"],
+  "epoch": "1915–1936",
+  "slides": [
+    {
+      "title": "Infancia humilde en Casas Viejas",
+      "text": "María Silva Cruz nació en 1915 en Casas Viejas, Cádiz, en una familia jornalera y carbonera que vivía de trabajos durísimos en el campo. Era nieta de Francisco Cruz, conocido como “Seisdedos”, un carbonero respetado en el pueblo. Creció rodeada de pobreza, represión y conversaciones sobre injusticia social. Como la mayoría de las niñas campesinas de su época, era analfabeta o semialfabetizada, pero mostraba una enorme curiosidad por las historias que escuchaba en voz alta.",
+      "quote": "“Yo no tengo miedo. Miedo tienen ellos.” (memoria popular)",
+      "image": "libertaria.jpeg"
+    },
+    {
+      "title": "Un despertar político inesperado",
+      "text": "A pesar de su origen humilde y la falta de acceso a la educación formal, María se acercó muy joven al movimiento anarquista, influida por la tradición libertaria que circulaba por los campos andaluces y por la CNT. Junto a su amiga íntima Manuela Lago, su hermana Catalina y otras vecinas creó el grupo de mujeres “Amor y Armonía”, donde se reunían para leer en voz alta, debatir política y soñar con transformar su realidad.",
+      "quote": "No quiero callar. Quería tierra y libertad.” (memoria popular)",
+      "image": "liber_viej.jpeg"
+    },
+    {
+      "title": "Los Sucesos de Casas Viejas",
+      "text": "En enero de 1933 la CNT lanzó una insurrección anarquista. Casas Viejas se convirtió en uno de los epicentros. María, con solo 16 años, salió a la calle con la bandera rojinegra convencida de que llegaba el comunismo libertario. La respuesta del Estado fue brutal: fuerzas de asalto incendiaron la choza de su abuelo “Seisdedos”, donde se habían refugiado hombres, mujeres y criaturas. Solo María y un niño lograron escapar con vida.",
+      "quote": "Arderá la choza, pero no nuestras ganas de vivir.” (memoria popular)",
+      "image": "casas_viejas.jpeg"
+    },
+    {
+      "title": "Superviviente convertida en símbolo",
+      "text": "Tras dos días escondida en el campo, María regresó a la casa de su abuela, donde fue detenida. Pasó por la cárcel de Medina Sidonia y después por la prisión de Cádiz. Su figura recorrió España: la muchacha que había sobrevivido a la masacre se convirtió en símbolo de la barbarie estatal y de la lucha campesina. Periodistas, políticos y escritores usaron su historia como ejemplo del sufrimiento andaluz.",
+      "quote": "Si nos quitan la vida, que no nos quiten la dignidad.” (memoria popular)",
+      "image": "represion_lib.jpeg"
+    },
+    {
+      "title": "Amor y militancia en tiempos convulsos",
+      "text": "En prisión conoció a Miguel Pérez Cordón, periodista y militante anarquista. Vivieron su relación en 'unión libre', coherente con sus ideas libertarias. Tras salir de la cárcel se trasladaron a Madrid, donde continuaron su militancia. María quedó embarazada, pero la represión tras el golpe de 1936 solo les dejó un breve tiempo de calma.",
+      "quote": "La libertad no se pide: se toma.” (memoria popular)",
+      "image": "libertaria_couple.jpeg"
+    },
+    {
+      "title": "Represión, cárcel y maternidad",
+      "text": "Fue detenida en Paterna poco después del inicio de la Guerra Civil. La llevaron nuevamente a Medina Sidonia, donde permaneció encarcelada hasta el nacimiento de su hijo, Sidonio. Las crónicas orales cuentan que todavía lo estaba amamantando cuando la sacaron de la prisión para ejecutarla, un ejemplo devastador de la violencia ejercida contra las mujeres del campo andaluz.",
+      "quote": "Si me llevan, que sepan que no podrán llevarse lo que soy.” (memoria popular)",
+      "image": "prision_lib.jpeg"
+    },
+    {
+      "title": "Asesinada con solo 21 años",
+      "text": "En agosto de 1936, María Silva Cruz fue fusilada en la zona de la Laguna de la Janda. Tenía 21 años. Su cuerpo permanece desaparecido en las cunetas de Cádiz. Hoy es una figura rescatada por la memoria histórica y feminista como símbolo del sufrimiento campesino, la dignidad y la resistencia de las mujeres anarquistas.",
+      "quote": "No podrán enterrarlo todo.” (memoria popular)",
+      "image": "muerte_lib.jpeg"
+    }
+  ]
+},
+{
+  "name": "Isabel Oyarzábal “Isabel de Palencia”",
+  "city": "Málaga",
+  "coords": [36.7213, -4.4214],
+  "category": "Activista",
+  "bio": "Pionera del periodismo femenino y primera embajadora española, unió feminismo, diplomacia y activismo internacional.",
+  "born": 1878,
+  "died": 1974,
+  "areas": ["periodismo", "feminismo", "diplomacia", "cultura"],
+  "epoch": "1900–1950",
+  "slides": [
+    {
+      "title": "Una infancia entre dos mundos",
+      "text": "Isabel Oyarzábal nació en Málaga en 1878, hija de padre malagueño y madre escocesa. Creció entre dos culturas que marcaron toda su vida: el mundo mediterráneo y el anglosajón. Estudió en el Colegio de la Asunción y pasó temporadas en entornos británicos, donde aprendió inglés y adquirió una visión internacional muy poco frecuente para las niñas españolas de su época.",
+      "image": "oyarzabal_infancia.jpg"
+    },
+    {
+      "title": "Una joven que quería escribirlo todo",
+      "text": "Muy joven se lanzó al periodismo. En 1907 fundó, junto a su hermana y una amiga, la revista “La Dama y La Vida Ilustrada”, considerada la primera publicación femenina hecha por mujeres en España. Desde ahí empezó a escribir sobre educación, derechos de las mujeres y desigualdad social.",
+      "image": "oyarzabal_revista.jpg"
+    },
+    {
+      "title": "Del teatro al activismo feminista",
+      "text": "Antes de consolidarse como periodista, Isabel fue actriz en la compañía de María Tubau y Ceferino Palencia. Años después se convirtió en una figura respetada del movimiento feminista español, participando en asociaciones como la ANME, el Lyceum Club y la Liga Femenina por la Paz y la Libertad.",
+      "image": "oyarzabal_teatro.jpg"
+    },
+    {
+      "title": "Periodista, inspectora de trabajo y mujer moderna",
+      "text": "Su escritura directa y valiente la llevó a colaborar con periódicos nacionales. Además, fue inspectora de Trabajo, denunciando la explotación laboral femenina y la falta de protección para las trabajadoras.",
+      "image": "oyarzabal_periodista.jpg"
+    },
+    {
+      "title": "La primera embajadora española",
+      "text": "Durante la Segunda República fue nombrada embajadora de España en Suecia y Finlandia, convirtiéndose en la primera mujer diplomática española. Dio conferencias internacionales para defender la República, el voto femenino y la democracia.",
+      "image": "oyarzabal_embajadora.jpg"
+    },
+    {
+      "title": "Una vida compartida: amor, arte y exilio",
+      "text": "En lo personal, su gran compañero fue Ceferino Palencia, abogado, pintor y diplomático. Se casaron en 1909, tuvieron dos hijos y compartieron una vida de viajes, teatro, periodismo y militancia política.",
+      "image": "oyarzabal_palencia.jpg"
+    },
+    {
+      "title": "Una feminista que firmaba sin desaparecer",
+      "text": "Para no quedar borrada bajo el apellido del marido, Isabel usó varias firmas: Isabel Oyarzábal Smith, Beatriz Galindo e “Isabel de Palencia”. Escribió sus memorias en inglés bajo el título 'I Must Have Liberty', reflejo de su identidad cosmopolita.",
+      "image": "oyarzabal_firmas.jpg"
+    },
+    {
+      "title": "Una voz española en el mundo",
+      "text": "Habló ante miles de personas en Estados Unidos y Canadá, incluso en el Madison Square Garden. Fue una voz clave para explicar la causa republicana en el extranjero.",
+      "image": "oyarzabal_madison.jpg"
+    },
+    {
+      "title": "Exilio, literatura y legado",
+      "text": "Tras la derrota republicana se exilió en México, donde siguió escribiendo novelas, ensayos y artículos sobre España, la guerra y las mujeres. Murió en 1974 a los 95 años.",
+      "image": "oyarzabal_exilio.jpg"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "¿Qué revista femenina pionera fundó Isabel Oyarzábal en 1907?",
+      "options": [
+        "La Dama y La Vida Ilustrada",
+        "La Voz de las Mujeres",
+        "Mujeres Libres"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué logro histórico alcanzó durante la Segunda República?",
+      "options": [
+        "Fue la primera embajadora española",
+        "Fue la primera mujer directora de prisión",
+        "Fue la primera alcaldesa democrática"
+      ],
+      "answer": 0
+    }
+  ]
+},
+
+{
+  "name": "Mar Cambrollé Jurado",
+  "city": "Sevilla",
+  "coords": [37.3891, -5.9845],
+  "category": "Activista",
+  "bio": "Pionera del activismo trans en Andalucía, fundadora del MHAR y figura clave en la Ley Integral de Transexualidad de 2014.",
+  "born": 1957,
+  "died": null,
+  "areas": ["activismo", "derechos humanos", "lgtbi", "feminismo"],
+  "epoch": "1960–actualidad",
+  "slides": [
+    {
+      "title": "Infancia humilde y un despertar complejo",
+      "text": "Mar Cambrollé nació en 1957 en Sevilla, en un barrio obrero y en una familia trabajadora. Desde muy pequeña sintió la desconexión entre su identidad y el género asignado al nacer. Jugaba con niñas, usaba ropa de su madre y soñaba con roles femeninos, en un tiempo en el que todo se reducía a insultos y castigos. La pobreza, la marginación y la ausencia de apoyo fueron el terreno donde desarrolló una fortaleza que marcaría toda su vida.",
+      "image": "mar_infancia.jpeg"
+    },
+    {
+      "title": "Una joven rebelde que rompía moldes",
+      "text": "Creció sin escuela cercana ni espacios seguros para jóvenes trans. Fue castigada por su padre y cuestionada por todo su entorno, pero decidió rebelarse. En los años 70 se afirmaba como mujer en una Sevilla donde incluso caminar vestida de niña era un acto político. Desde muy joven se convirtió en referente involuntaria de resistencia.",
+      "image": "mar_joven.jpeg"
+    },
+    {
+      "title": "Fundadora del primer movimiento LGTBI andaluz",
+      "text": "Con 19 años, entre 1976 y 1977, fundó el Movimiento Homosexual de Acción Revolucionaria (MHAR), el primer grupo organizado en Andalucía por la liberación sexual. Organizó la segunda manifestación por la libertad sexual en España en 1978 y se enfrentó a la policía en plena Transición. Su liderazgo marcó el inicio del activismo queer andaluz.",
+      "image": "mar_mhar.jpeg"
+    },
+    {
+      "title": "Empresaria, vanguardista y superviviente",
+      "text": "Trabajó brevemente como prostituta para ahorrar dinero y financiar su transición: depilación, cirugía nasal, mamoplastia. Con ese dinero abrió su tienda alternativa en Sevilla, Metal Street, convirtiéndose en pionera de las tribus urbanas y las estéticas londinenses en España.",
+      "image": "mar_metalstreet.jpeg"
+    },
+    {
+      "title": "Un amor estable en medio de la lucha",
+      "text": "En los años 80 conoció al que hoy es su marido mientras abría su tienda. Han formado una pareja estable que la ha acompañado en décadas de activismo, visibilidad y resistencia. Su historia de amor no es famosa, pero es un ejemplo de apoyo mutuo en un contexto hostil.",
+      "image": "mar_pareja.jpeg"
+    },
+    {
+      "title": "Lideresa del movimiento trans en Andalucía y España",
+      "text": "En 2007 fundó la Asociación de Transexuales de Andalucía (ATA)-Sylvia Rivera y se convirtió en una de las voces más influyentes de España. Lideró plataformas nacionales, coordinó campañas contra la violencia institucional y centró la agenda en la 'T', reivindicando que las personas trans son agentes políticos, no víctimas.",
+      "image": "mar_ata.jpeg"
+    },
+    {
+      "title": "La Ley Integral de Transexualidad de 2014",
+      "text": "Mar fue decisiva en la creación de la Ley Integral de Transexualidad de Andalucía, pionera en Europa al reconocer la autodeterminación de género y despatologizar las identidades trans. Su activismo influyó directamente en la ley estatal de 2023 y abrió un camino de derechos para nuevas generaciones.",
+      "image": "mar_ley2014.jpeg"
+    },
+    {
+      "title": "Huelga de hambre, memoria y lucha",
+      "text": "En 2018 impulsó una huelga de hambre colectiva para acelerar la ley trans estatal. También donó la 'Colección Mar Cambrollé' al Archivo General de Andalucía: 104 documentos únicos del tardofranquismo y la Transición, un archivo imprescindible para la historia LGTBI.",
+      "image": "mar_huelga.jpeg"
+    },
+    {
+      "title": "Actualidad y legado",
+      "text": "A sus 67 años sigue activa, gestionando su tienda y liderando ATA y Plataforma Trans. En 2024 fue candidata al Parlamento Europeo por Podemos. Su vida es un puente vivo entre franquismo y democracia, y una inspiración para jóvenes que buscan referentes trans valientes y libres.",
+      "image": "mar_actualidad.jpeg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué organización fundó Mar Cambrollé con solo 19 años?",
+      "options": [
+        "El Movimiento Homosexual de Acción Revolucionaria (MHAR)",
+        "La Federación Estatal LGTB",
+        "La asociación ATA-Sylvia Rivera"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué logro legislativo consiguió impulsar Mar Cambrollé en 2014?",
+      "options": [
+        "La Ley Integral de Transexualidad de Andalucía",
+        "La Ley de Matrimonio Igualitario",
+        "La Ley Trans estatal de 2023"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Clara Campoamor",
+  "city": "Madrid",
+  "coords": [40.4168, -3.7038],
+  "category": "Activista",
+  "bio": "Abogada feminista y diputada republicana que logró la aprobación del sufragio femenino en España en 1931.",
+  "born": 1888,
+  "died": 1972,
+  "areas": ["derechos", "feminismo", "politica", "igualdad"],
+  "epoch": "1900–1950",
+  "slides": [
+    {
+      "title": "De niña pobre a abogada",
+      "text": "Clara Campoamor nació en Madrid en 1888, en una familia muy humilde: su padre era contable y su madre costurera. Cuando él murió, Clara tenía unos diez años y tuvo que dejar la escuela para trabajar como modista, dependienta y telefonista y ayudar económicamente en casa. Aun así, ya adulta, estudió Derecho mientras trabajaba, licenciándose con más de treinta años. Para una mujer obrera de su época, fue un logro casi imposible.",
+      "image": "clara_infancia.jpeg"
+    },
+    {
+      "title": "Una mujer hecha a sí misma",
+      "text": "Su origen humilde marcó su identidad. Clara nunca olvidó que había sido una niña trabajadora que se construyó a sí misma con esfuerzo. Esa conciencia social la acompañaría en su defensa de los derechos civiles, la igualdad jurídica y la justicia para quienes no tenían voz.",
+      "image": "clara_joven.jpeg"
+    },
+    {
+      "title": "Política, feminismo y organización colectiva",
+      "text": "Tras convertirse en abogada, Clara Campoamor se volcó en causas feministas. Fundó la Unión Republicana Femenina para organizar a las mujeres políticamente, enseñarles sus derechos y promover su participación en la vida pública. Fue una de las pocas mujeres que litigaron en tribunales durante los años veinte, defendiendo casos complejos en un entorno dominado por hombres.",
+      "image": "clara_urf.jpeg"
+    },
+    {
+      "title": "Diputada de la Segunda República",
+      "text": "En 1931 fue elegida diputada en las Cortes Constituyentes, un hecho histórico para una mujer de sus orígenes. Allí trabajó en leyes fundamentales sobre derechos civiles, igualdad y protección de menores. Pero su momento decisivo estaba por llegar: el debate sobre el sufragio femenino.",
+      "image": "clara_diputada.jpeg"
+    },
+    {
+      "title": "El discurso que cambió la historia",
+      "text": "El 1 de octubre de 1931, Clara Campoamor defendió con firmeza que las mujeres debían votar sin excusas ni retrasos. Se enfrentó incluso a otra diputada feminista, Victoria Kent, que pedía aplazar el sufragio. Campoamor sostuvo que la libertad no se aplaza y que la ciudadanía plena exige igualdad real. Gracias a su intervención, las mujeres votaron por primera vez en 1933.",
+      "image": "clara_discurso.jpeg"
+    },
+    {
+      "title": "Más allá del voto: infancia, paz y derechos civiles",
+      "text": "Clara se definía como republicana, laica y feminista. Luchó contra la prostitución regulada, defendió los derechos de los llamados \"hijos ilegítimos\" y participó en asociaciones pacifistas. Fue la primera mujer en la Junta de Gobierno del Ateneo de Madrid, abriendo espacios culturales antes reservados a los hombres.",
+      "image": "clara_ateneo.jpeg"
+    },
+    {
+      "title": "Una vida marcada por el exilio",
+      "text": "Durante la Guerra Civil tuvo que huir de Madrid por miedo a represalias. Vivió primero en París, luego en Buenos Aires y finalmente en Lausana (Suiza). El franquismo la procesó incluso por masonería, lo que impidió su regreso. En Suiza trabajó como abogada y traductora hasta que perdió la vista.",
+      "image": "clara_exilio.jpeg"
+    },
+    {
+      "title": "El final de una pionera",
+      "text": "Clara Campoamor murió en Lausanne en 1972, a causa de un cáncer. Sus cenizas llegaron discretamente a España años después. Hoy se la recuerda como la mujer que hizo posible el voto femenino en España, una de las figuras más importantes del feminismo y una inspiración para generaciones enteras.",
+      "image": "clara_final.jpeg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué logro histórico consiguió Clara Campoamor en 1931?",
+      "options": [
+        "La aprobación del sufragio femenino en España",
+        "La primera ley de divorcio",
+        "La ley de educación gratuita"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Cuál de estas organizaciones fundó Clara Campoamor para organizar políticamente a las mujeres?",
+      "options": [
+        "Unión Republicana Femenina",
+        "Federación de Mujeres Libres",
+        "Lyceum Club"
+      ],
+      "answer": 0
+    },
+
+    {
+  "name": "Concepción Arenal",
+  "city": "Ferrol",
+  "coords": [43.4820, -8.2369],
+  "category": "Jurista, escritora y pionera del feminismo",
+  "bio": "Pensadora jurídica, feminista y reformadora social. Asistió a la universidad disfrazada de hombre y revolucionó la visión de las prisiones y de los derechos de las mujeres.",
+  "born": 1820,
+  "died": 1893,
+  "areas": ["feminismo", "derechos humanos", "justicia social", "pensamiento"],
+  "epoch": "1820–1893",
+
+  "slides": [
+    {
+      "title": "Infancia, estudios y rebeldía",
+      "text": "Nació en Ferrol en 1820, en una familia liberal marcada por las ideas de justicia de su padre, un militar sancionado por oponerse al absolutismo de Fernando VII. Ya de joven mostró una determinación extraordinaria: se trasladó a Madrid y, puesto que las mujeres no podían entrar en la universidad, asistió a clases de Derecho en la Universidad Central disfrazada de hombre —con pantalón, capa y sombrero— para poder estudiar como los demás.",
+      "quote": "Abrid escuelas y se cerrarán cárceles.",
+      "image": "arenal_estudios.jpg"
+    },
+    {
+      "title": "Trabajo social y reforma penitenciaria",
+      "text": "Con el tiempo se convirtió en escritora, pensadora jurídica y activista social. Se centró en la situación de las personas presas, los pobres y las mujeres. Publicó obras como 'Manual del visitador del preso' y fue nombrada inspectora de cárceles de mujeres y, más tarde, inspectora de casas de corrección. Desde allí denunció malos tratos y defendió un sistema penitenciario más humano, orientado a la reinserción.",
+      "quote": "Odia el delito y compadece al delincuente.",
+      "image": "arenal_prisiones.jpg"
+    },
+    {
+      "title": "Feminismo y defensa de las mujeres",
+      "text": "Es una de las pioneras del feminismo español. En libros como 'La mujer del porvenir' y 'El estado actual de la mujer en España' cuestionó las teorías que consideraban a las mujeres inferiores y reclamó educación en igualdad. En 'El trabajo de las mujeres' denunció los salarios miserables y la falta de formación femenina, defendiendo que se les ofreciera la misma instrucción que a los obreros.",
+      "quote": "La mujer necesita instruirse, y la sociedad necesita que se instruya.",
+      "image": "arenal_feminismo.jpg"
+    },
+    {
+      "title": "Caridad activa y curiosidades",
+      "text": "No se quedó en las ideas: fundó el periódico 'La Voz de la Caridad', impulsó el Patronato de los Diez —donde diez familias acomodadas ayudaban a una sin recursos— y participó en la Cruz Roja, llegando a dirigir un hospital de campaña durante la Tercera Guerra Carlista, donde atendía a heridos de ambos bandos. Su matrimonio con el abogado Fernando García Carrasco fue también una alianza intelectual: lo acompañaba, vestida de hombre, a tertulias donde solo se admitían varones.",
+      "quote": "La caridad es la perfección del corazón.",
+      "image": "arenal_caridad.jpg"
+    },
+    {
+      "title": "Final y legado",
+      "text": "Murió en Vigo en 1893 tras una vida dedicada a escribir, visitar cárceles, crear redes de ayuda y enfrentarse a los prejuicios de su tiempo. Hoy es considerada madre del feminismo español y referente de la criminología humanista. Su vida demuestra que estudiar, cuestionar y cuidar son formas poderosas de transformar el mundo.",
+      "quote": "Las obras quedan; las gentes pasan.",
+      "image": "arenal_legacy.jpg"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "¿Qué hizo Concepción Arenal para poder estudiar Derecho en la Universidad Central?",
+      "options": [
+        "Asistió a clase disfrazada de hombre",
+        "Recibió un permiso especial del rector",
+        "Estudió en secreto a través de un tutor privado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué idea defendió Arenal respecto al sistema penitenciario?",
+      "options": [
+        "Que debía ser humano y orientado a la reinserción",
+        "Que debía endurecer las penas",
+        "Que debía privatizarse para mejorar su eficacia"
+      ],
+      "answer": 0
+    }
+  ]
+}
+
+  ]
+},
+
+{
+  "name": "Silvia Reyes",
+  "city": "Las Palmas de Gran Canaria",
+  "coords": [28.1235, -15.4363],
+  "category": "Activista",
+  "bio": "Una de las grandes pioneras trans en España, detenida más de 50 veces durante el franquismo y referente histórico del activismo por la libertad sexual.",
+  "born": 1949,
+  "died": 2024,
+  "areas": ["activismo", "derechos humanos", "lgtbi", "memoria histórica"],
+  "epoch": "1949–2024",
+
+  "slides": [
+    {
+      "title": "Infancia, huida y supervivencia",
+      "text": "Silvia Reyes nació en 1949 en una familia humilde de Las Palmas y desde muy joven se expresó como chica, algo que provocó agresiones, burlas y rechazo familiar. En los años 70, todavía en plena dictadura franquista, huyó a Barcelona buscando libertad. Pero allí se encontró con la Ley de Peligrosidad y Rehabilitación Social, que permitía detenerla solo por ser una mujer trans. Pasó por comisaría y cárcel más de cincuenta veces en dos décadas, sufriendo humillaciones, golpes y detenciones arbitrarias simplemente por existir como era.",
+      "quote": "Me detenían por llevar minifalda, tacones o por caminar como mujer.",
+      "image": "silvia_infancia.jpg"
+    },
+    {
+      "title": "Activista en los márgenes durante el franquismo",
+      "text": "A pesar del miedo, Silvia se convirtió en un símbolo de resistencia. Participó en el Orgullo de Barcelona de 1977, la primera gran manifestación LGTBI del país, donde fue una de las voces más visibles del bloque trans y gritó: “¡Basta ya!”. En los años 80 y 90 continuó luchando contra la violencia policial, especialmente hacia mujeres trans trabajadoras del sexo, y denunció que delitos como el 'escándalo público' siguieran vigentes hasta 1988.",
+      "quote": "No luchábamos solo por nosotras: luchábamos porque nadie más tuviera que pasar por lo mismo.",
+      "image": "silvia_activismo.jpg"
+    },
+    {
+      "title": "Memoria histórica y testimonio imprescindible",
+      "text": "Ya en democracia, su voz se convirtió en memoria viva. Participó en el documental 'Crits de llibertat' y en el libro 'La doble transición', donde se recoge la violencia policial que vivieron las mujeres trans durante la Transición. Su testimonio explicó cómo pagaron con sus cuerpos la apertura de un camino de libertad del que hoy disfrutan nuevas generaciones.",
+      "quote": "A mí me encarcelaron por travesti; hoy entro por la puerta grande para que se sepa lo que nos hicieron.",
+      "image": "silvia_memoria.jpg"
+    },
+    {
+      "title": "Humillación, dignidad y vuelta a los espacios de violencia",
+      "text": "En una de sus muchas detenciones, Silvia fue llevada a una cárcel de hombres. Los funcionarios la desnudaron y la pasearon para humillarla. Años después, cuando volvió invitada a un acto de memoria, dijo: “Aquí me encarcelaron por travesti; hoy entro como invitada”. Con ese gesto resignificó un espacio de dolor y lo convirtió en acto político.",
+      "quote": "Sobrevivir también es una forma de victoria.",
+      "image": "silvia_carcela.jpg"
+    },
+    {
+      "title": "Rasgos personales y legado",
+      "text": "Silvia se definía como una superviviente. Siempre quiso volver a España para no dejar que la dictadura la expulsara para siempre. Vivió sus últimos años en Barcelona, reconocida como referente por colectivos LGTBI y por el Ayuntamiento. Murió en 2024, a los 75 años. Para las chicas de hoy, su vida demuestra que defender quién eres —aunque el entorno te llame delito— puede cambiar leyes y abrir espacios de libertad para quienes vienen detrás.",
+      "quote": "Mi mayor triunfo no es una ley: es haber sobrevivido.",
+      "image": "silvia_legacy.jpg"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "¿Qué hecho refleja la persecución que sufrió Silvia Reyes durante el franquismo y la Transición?",
+      "options": [
+        "Fue detenida más de 50 veces solo por ser una mujer trans",
+        "Fue deportada a otro país por orden judicial",
+        "Fue obligada a abandonar España por motivos políticos"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿En qué histórico acontecimiento participó Silvia Reyes en 1977?",
+      "options": [
+        "En el primer Orgullo LGTBI de Barcelona",
+        "En la primera ley trans estatal",
+        "En la fundación del MHAR"
+      ],
+      "answer": 0
+    }
+  ]
+},
+
+{
+  "name": "Ana Patricia Botín",
+  "city": "Santander",
+  "coords": [43.4623, -3.8099],
+  "category": "Empresarial",
+  "bio": "Presidenta ejecutiva del Banco Santander desde 2014, referente de liderazgo femenino en la banca internacional y pionera en digitalización e inclusión financiera.",
+  "born": 1960,
+  "died": null,
+  "areas": ["economía", "liderazgo", "empresa", "mujeres referentes"],
+  "epoch": "1960–actualidad",
+
+  "slides": [
+    {
+      "title": "Infancia en el corazón de la banca",
+      "text": "Ana Patricia Botín nació en Santander en 1960, literalmente dentro de un mundo financiero: hija de Emilio Botín, nieta y bisnieta de anteriores presidentes del Santander. Aunque creció en un entorno privilegiado, también vivió con una exigencia constante: estudiar, destacar, tener criterio propio. Desde joven aprendió que su apellido abría puertas, pero también imponía responsabilidades.",
+      "quote": "No basta con heredar un nombre: hay que demostrar valor.",
+      "image": "botin_infancia.jpg"
+    },
+    {
+      "title": "De hija de banquero a economista global",
+      "text": "Estudió en colegios de élite y se licenció en Economía en Bryn Mawr College, una universidad femenina muy exigente en Estados Unidos. Su primer trabajo no fue en la empresa familiar, sino en J.P. Morgan en Nueva York, donde pasó ocho años en banca de inversión aprendiendo mercados, riesgo y análisis financiero. Solo después volvió al Santander, primero en áreas técnicas y luego liderando la expansión internacional, especialmente en América Latina.",
+      "quote": "Quise aprender lejos para no depender del apellido.",
+      "image": "botin_jpmorgan.jpg"
+    },
+    {
+      "title": "Banesto y el laboratorio de innovación",
+      "text": "En 2002 se convirtió en presidenta de Banesto. Allí apostó por la banca online, los servicios a pymes y las tarjetas cuando aún no era tendencia. Bajo su dirección, Banesto se modernizó y empezó a aparecer en rankings internacionales. Fue su primera gran prueba de liderazgo independiente dentro del grupo.",
+      "quote": "Innovar es decidir antes de que sea evidente.",
+      "image": "botin_banesto.jpg"
+    },
+    {
+      "title": "Reconstruir Santander UK en plena crisis",
+      "text": "Más tarde fue consejera delegada de Santander UK, donde integró varios bancos británicos y saneó la entidad durante la crisis financiera. Allí se ganó respeto propio en la City de Londres, demostrando solvencia más allá del apellido Botín.",
+      "quote": "Las crisis ponen a prueba el carácter de las personas y de los bancos.",
+      "image": "botin_uk.jpg"
+    },
+    {
+      "title": "Llegar a la presidencia",
+      "text": "En 2014, tras la muerte de su padre, el consejo del Santander la eligió presidenta ejecutiva. Su reto: modernizar un banco global en plena revolución digital. Aceleró la transformación tecnológica, impulsó la banca móvil y reforzó la solvencia del grupo en Europa y América. También situó la sostenibilidad y la inclusión financiera en el centro de la estrategia corporativa.",
+      "quote": "La banca debe ser parte de la solución, no del problema.",
+      "image": "botin_presidencia.jpg"
+    },
+    {
+      "title": "Impacto de género y liderazgo femenino",
+      "text": "Ana Patricia ha impulsado la presencia de mujeres en puestos directivos, programas para emprendedoras y becas educativas a través de Santander Universidades. Su liderazgo ha sido reconocido por Forbes, Fortune y el International Women’s Forum, que la destacan como una de las mujeres más influyentes del mundo por su impacto en la cultura empresarial.",
+      "quote": "El talento no tiene género. Las oportunidades, a veces sí.",
+      "image": "botin_genero.jpg"
+    },
+    {
+      "title": "Curiosidades y decisiones que marcaron su vida",
+      "text": "A los 22 años pidió matrimonio por teléfono desde Nueva York a Guillermo Morenés, algo muy inusual para su época. También cuenta que uno de los golpes más duros fue perder una hija durante un embarazo, lo que la llevó a replantearse prioridades y regresar a España. En 1999, su propio padre la apartó del banco por diferencias profesionales; aquel episodio, según ella, la hizo más fuerte y contribuyó a su éxito posterior en Banesto y en el Reino Unido. Deportista y muy competitiva, ha dicho que el golf le abrió puertas en un mundo aún dominado por hombres.",
+      "quote": "De los golpes se aprende; de algunos, incluso se renace.",
+      "image": "botin_curiosidades.jpg"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "¿Dónde inició Ana Patricia Botín su carrera profesional fuera de la empresa familiar?",
+      "options": [
+        "En J.P. Morgan en Nueva York",
+        "En el Banco de España",
+        "En Santander UK"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué transformación ha impulsado especialmente durante su presidencia del Banco Santander?",
+      "options": [
+        "La digitalización y la sostenibilidad",
+        "La desaparición de todas las oficinas físicas",
+        "La salida del banco de Europa"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Ana Patricia Botín",
+  "city": "Santander",
+  "coords": [43.4623, -3.8099],
+  "category": "Empresarial",
+  "bio": "Creció rodeada de expectativas y terminó convirtiéndose en una de las mujeres más influyentes del mundo financiero. Su trayectoria mezcla privilegio, vulnerabilidad, riesgo y una fuerza singular para liderar en entornos dominados por hombres.",
+  "born": 1960,
+  "died": null,
+  "areas": ["economía", "liderazgo", "empresa", "mujeres referentes"],
+  "epoch": "1960–actualidad",
+
+  "slides": [
+    {
+      "title": "Nacer dentro del poder… y sentir el peso de la mirada",
+      "text": "Ana Patricia Botín nació en Santander en 1960 en el corazón de una dinastía bancaria. Pero crecer entre presidentes del Santander no significaba comodidad: implicaba expectativas. Desde niña aprendió que cualquier gesto podía ser interpretado como un “ensayo” de futura presidenta. Esa presión, invisible para muchos, moldeó su disciplina y creó una paradoja psicológica: tener privilegio, pero sentir que debía demostrar que lo merecía. Según ella misma, lo más difícil no era el apellido, sino escapar de él para convertirse en alguien con voz propia.",
+      "quote": "No basta con heredar. Hay que construir.",
+      "image": "botin_origen.jpg"
+    },
+    {
+      "title": "Salir del apellido para descubrir quién era",
+      "text": "Se marchó a Estados Unidos para estudiar Economía en Bryn Mawr College, una universidad femenina que rompe el mito de que la élite no sufre. Allí aprendió algo crucial en su desarrollo conductual: la autoeficacia nace cuando nadie te reconoce el apellido. Después, en J.P. Morgan en Nueva York, empezó desde cero. Ocho años en banca de inversión la obligaron a pensar rápido, asumir riesgos y aprender a contradecir a otros analistas. Esa etapa construyó su identidad profesional: una mujer que podía sostener su valor sin el paraguas familiar.",
+      "quote": "Quise aprender lejos para no depender de dónde venía.",
+      "image": "botin_brynmawr.jpg"
+    },
+    {
+      "title": "Banesto: un laboratorio emocional y estratégico",
+      "text": "Cuando asumió la presidencia de Banesto en 2002, tomó decisiones que revelan un patrón psicológico claro: curiosidad + tolerancia al error. Apostó por banca online, pymes y nuevos métodos de pago cuando no era obvio hacerlo. Lo interesante no es la apuesta en sí, sino su estilo: trataba cada iniciativa como un prototipo, un \"ensayo controlado\" para observar cómo respondían los usuarios. Banesto se convirtió en su laboratorio de innovación y también en el espacio donde aprendió algo esencial: el liderazgo no es saber, sino escuchar y ajustar sin aferrarse al ego.",
+      "quote": "Innovar es decidir antes de que el mundo te dé permiso.",
+      "image": "botin_banesto_lab.jpg"
+    },
+    {
+      "title": "Reputación propia en Londres: la prueba de fuego",
+      "text": "En Santander UK vivió su etapa más dura y más formadora. Integrar varios bancos británicos en plena crisis financiera era una misión que nadie quería. Ella sí. Reconstruir esa filial exigió habilidades de regulación emocional: tolerancia al estrés, pensamiento a largo plazo y capacidad para actuar sin tener toda la información. Londres la validó de manera distinta que España: por primera vez, dentro y fuera del sector, se la veía como líder por méritos propios. Allí se rompió el último vínculo entre su apellido y su autoestima profesional.",
+      "quote": "En la City aprendí que la confianza se gana, nunca se hereda.",
+      "image": "botin_uk.jpg"
+    },
+    {
+      "title": "La presidencia: liderar en sistemas complejos",
+      "text": "Tras la muerte repentina de su padre en 2014, el consejo la eligió presidenta ejecutiva. Heredar un banco de 150 años no es gestionar: es navegar un sistema vivo. Bajo su dirección, el Santander aceleró su revolución digital, impulsó la banca móvil y reorganizó sus operaciones globales. Pero su aportación más psicológica fue otra: cambiar la narrativa interna. Pasar del orgullo del pasado al deseo de futuro. Introdujo la idea de que un banco no solo custodia dinero: custodia confianza. En un sector tradicionalmente inmóvil, esa es una transformación cultural profunda.",
+      "quote": "La banca no puede ser fría: debe ser fiable.",
+      "image": "botin_presidencia.jpg"
+    },
+    {
+      "title": "Romper techos desde dentro",
+      "text": "Ana Patricia se mueve en un sector donde las decisiones históricamente se han tomado en despachos llenos de hombres. Por eso impulsó programas para aumentar mujeres en puestos directivos, becas, microcréditos y formación para emprendedoras. No es solo filantropía: entiende cómo los sesgos estructurales limitan la autoestima, el acceso al capital y la posibilidad de innovar. Su liderazgo ha servido de espejo para miles de mujeres que nunca imaginaron que una mujer podría ser la banquera más influyente de Europa.",
+      "quote": "El talento es universal; las oportunidades, no.",
+      "image": "botin_genero.jpg"
+    },
+    {
+      "title": "Golpes, decisiones valientes y la mujer privada",
+      "text": "Detrás de la ejecutiva hay una persona atravesada por vulnerabilidades que la transformaron. A los 22 años pidió matrimonio por teléfono desde Nueva York porque no toleraba vivir en la incertidumbre emocional: una muestra temprana de su estilo decisivo. La pérdida de una hija cambió radicalmente sus prioridades y la acercó al núcleo familiar. En 1999, su padre la expulsó del banco tras desacuerdos profesionales: lloró, cayó, y volvió más fuerte. Hoy admite que aquel despido fue el golpe que la hizo líder. Practica golf, trekking y yoga como herramientas de autorregulación emocional: espacios donde —dice— aprende la paciencia que la banca no siempre permite.",
+      "quote": "Los momentos que más duelen son los que más te enseñan.",
+      "image": "botin_personal.jpg"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "¿Qué etapa cimentó la identidad profesional independiente de Ana Patricia Botín?",
+      "options": [
+        "Sus años trabajando en J.P. Morgan en Nueva York",
+        "Su paso directo por el Banco Santander",
+        "Su nombramiento como presidenta en 2014"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué idea caracteriza su liderazgo como presidenta del Santander?",
+      "options": [
+        "La necesidad de combinar digitalización con una cultura basada en la confianza",
+        "La prioridad absoluta de reducir el tamaño del banco",
+        "La apuesta por abandonar los mercados internacionales"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Rosa Chacel",
+  "city": "Valladolid",
+  "coords": [41.6523, -4.7245],
+  "category": "Pensadora",
+  "bio": "Una voz femenina clave de la literatura española del siglo XX; su rebeldía literaria y existencial hizo temblar convenciones y abrió caminos en la memoria de las mujeres escritoras.",
+  "born": 1898,
+  "died": 1994,
+  "areas": ["literatura", "escritura", "memoria", "exilio"],
+  "epoch": "1898–1994",
+
+  "slides": [
+    {
+      "title": "Infancia frágil, universo interior",
+      "text": "Nacida en 1898 en Valladolid, Rosa creció en una familia culta y liberal, pero su salud débil la alejó de la escuela. Esa infancia marcada por la fragilidad física y el aislamiento fue la que la empujó a construir un mundo interior rico: pensamientos, preguntas, sensibilidad. En ese refugio interior germinaría su voz literaria, forjada entre silencios y lecturas.",
+      "quote": "La infancia no se recuerda: se interpreta.",
+      "image": "rosa_chacel_infancia.jpg"
+    },
+    {
+      "title": "Madrid, arte y despertar creativo",
+      "text": "En 1908 su familia se trasladó a Madrid, y más tarde Rosa ingresó en la Escuela Superior de Bellas Artes de San Fernando con intención de dedicarse a la escultura. Pero pronto descubrió que su deseo era el lenguaje: las palabras, no la piedra. Madrid le dio las claves para transformar su fragilidad en conciencia: tertulias, encuentros, idea de una literatura íntima, subjetiva, honesta. Allí decidió escribir su propio camino más allá de moldes y géneros.",
+      "quote": "Esculpí con palabras lo que nunca podría con manos.",
+      "image": "rosa_chacel_madrid.jpg"
+    },
+    {
+      "title": "Exilio, ruptura y reencuentro con las palabras",
+      "text": "La Guerra Civil lo cambió todo. Se vio obligada a huir, a reinventarse fuera de España; su exilio la convirtió en extranjera del mundo y de su propia lengua. Pero ese desarraigo resultó ser fertil —surgieron novelas, memorias, diarios íntimos. Su escritura se volvió introspectiva, existencial, comprometida con la memoria, el amor, la pérdida. Brotó una literatura profunda, que exploraba la identidad, el dolor, la esperanza.",
+      "quote": "Exiliarse es aprender que lo íntimo no se expulsa.",
+      "image": "rosa_chacel_exilio.jpg"
+    },
+    {
+      "title": "Regreso tardío y reconocimiento merecido",
+      "text": "Volvió a España ya mayor, y solo entonces recibió premios y honores: el Premio de la Crítica, Medalla de Oro al Mérito en Bellas Artes, ser nombrada Hija Predilecta de Valladolid… Su obra, escrita entre silencios y desplazamientos, emergió como testimonio profundo de su época, y sobre todo como voz de mujer que rehúsa el olvido.",
+      "quote": "Escribir es devolver el alma a quienes la niegan.",
+      "image": "rosa_chacel_reconocimiento.jpg"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "¿Qué disciplina estudió Rosa Chacel inicialmente en Madrid?",
+      "options": ["Escultura", "Derecho", "Pintura"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué hecho histórico marcó su exilio y posterior producción literaria?",
+      "options": ["La Guerra Civil Española", "La Primera Guerra Mundial", "La Segunda Guerra Mundial"],
+      "answer": 0
+    }
+  ]
+},
+
+
+{
+  "name": "Remedios Varo",
+  "city": "Anglès (Girona)",
+  "coords": [42.0333, 2.5167],
+  "category": "Artista",
+  "bio": "Pionera del surrealismo, transformó su turbulenta vida en mundos oníricos donde lo místico, lo científico y lo íntimo se funden. Su obra desafía lo real y reivindica la imaginación como acto radical de libertad.",
+  "born": 1908,
+  "died": 1963,
+  "areas": ["arte", "surrealismo", "mujeres artistas", "exilio"],
+  "epoch": "1908–1963",
+
+  "slides": [
+    {
+      "title": "Una infancia nómada que inventa miradas",
+      "text": "Nacida en 1908 en Anglès (Girona), Remedios creció en una familia cuyos movimientos constantes por España y el norte de África —por el trabajo de su padre como ingeniero— le enseñaron desde niña a ver el mundo como un mapa en transformación. Esa infancia nómada la dotó de una mirada inquieta: lugares, culturas, paisajes, sombras. Una semilla definitiva para su universo pictórico.",
+      "quote": "Donde no hay hogar, cada cuadro es refugio.",
+      "image": "varo_infancia.jpg"
+    },
+    {
+      "title": "Madrid: entre la técnica y el sueño",
+      "text": "Se formó en la Real Academia de Bellas Artes de San Fernando, recibiendo una educación rigurosa en dibujo, anatomía y técnica pictórica. Pero mientras aprendía reglas, su mente creaba caos creativo. Fue allí donde empezó a soñar mundos imposibles: mecánicas, alquimia, fantasía, simbolismo. Esa tensión entre técnica estricta y deseo libre marcó su estilo —surrealismo como equilibrio entre rigor y locura.",
+      "quote": "Pinto lo que la razón calla.",
+      "image": "varo_madrid.jpg"
+    },
+    {
+      "title": "Exilio, búsqueda y metamorfosis artística",
+      "text": "Con la guerra y la represión, huyó: pasó por Barcelona, París, y finalmente se exilió en México. Ese desarraigo no mató su arte: lo transformó. En el exilio dio vida a figuras andróginas, espacios oníricos, máquinas simbólicas. Su pintura se volvió manifiesto: los sueños como actos de resistencia, lo imaginario como territorio de libertad frente al horror real.",
+      "quote": "Cuando pierdes patria, encuentras universo.",
+      "image": "varo_exilio.jpg"
+    },
+    {
+      "title": "Un legado surrealista para nuevas generaciones",
+      "text": "Murió en Ciudad de México en 1963, lejos de su tierra natal. Pero dejó un legado estético, espiritual, radical. Sus lienzos siguen habitados por lo intangible, lo femenino, lo transgresor. Hoy su arte inspira a quienes buscan en la incertidumbre una fuerza creadora —y reivindica que la pintura puede ser más que imagen: puede ser sueño, memoria, transformación.",
+      "quote": "Pintar es traducir el alma al visible.",
+      "image": "varo_obra.jpg"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "¿Dónde nació Remedios Varo?",
+      "options": ["Anglès (Girona)", "Madrid", "Barcelona"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué mezcla distingue su estilo artístico surrealista?",
+      "options": ["Realismo técnico + simbolismo onírico", "Abstracto geométrico", "Impresionismo clásico"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "María Ángela Nieto",
+  "city": "Madrid",
+  "coords": [40.4168, -3.7038],
+  "category": "Científica",
+  "bio": "Una de las biólogas españolas más importantes de la actualidad. Sus investigaciones sobre biología del desarrollo y neurociencia han abierto puertas en la comprensión de procesos claves de la vida, y su trayectoria demuestra cómo la ciencia puede ser también camino de pasión, curiosidad y compromiso.",
+  "born": 1960,
+  "died": null,
+  "areas": ["ciencia", "biología", "investigación", "mujeres en STEM"],
+  "epoch": "1960–actualidad",
+
+  "slides": [
+    {
+      "title": "Ciencia y curiosidad: nacimiento de una investigadora",
+      "text": "María Ángela Nieto nació en Madrid en 1960, en una época en la que la presencia de mujeres en ciencias aún era escasa. Desde joven sintió una fascinación por lo diminuto: células, vida, misterios de lo vivo. Esa curiosidad, acompañada de disciplina, la impulsó hacia la biología y la investigación, a pesar de los obstáculos estructurales contra las mujeres en STEM.",
+      "quote": "Para entender la vida, hay que atreverse a mirar lo invisible.",
+      "image": "nieto_investigacion.jpg"
+    },
+    {
+      "title": "Romper barreras académicas y construir conocimiento",
+      "text": "Estudió Biología y luego se doctoró en Biología Molecular. Su trabajo en el Instituto de Neurociencias CSIC-UMH la llevó a explorar procesos clave del desarrollo celular. Cada experimento, cada resultado, era una mezcla de paciencia, rigor y asombro. Su trayectoria demuestra que la ciencia avanza no solo con talento, sino con resistencia, compromiso y curiosidad constante.",
+      "quote": "La ciencia no admite certezas absolutas, solo preguntas valientes.",
+      "image": "nieto_laboratorio.jpg"
+    },
+    {
+      "title": "Reconocimiento internacional: cuando la dedicación trasciende fronteras",
+      "text": "Por su contribución al conocimiento de la biología del desarrollo recibió premios como el Premio Rey Jaime I o el L'Oréal-UNESCO For Women in Science. Es referente para muchas mujeres jóvenes que sueñan con dedicarse a la ciencia. Su éxito no borra las dificultades, pero sí demuestra que la perseverancia puede abrir caminos donde otros ven muros.",
+      "quote": "Cada célula es una historia esperando ser contada.",
+      "image": "nieto_premio.jpg"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "¿A qué campo científico se dedica María Ángela Nieto?",
+      "options": ["Biología del desarrollo / Biomedicina", "Física teórica", "Química orgánica"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué premia recibió por su labor como científica?",
+      "options": ["L'Oréal-UNESCO For Women in Science", "Premio Nobel", "Premio Cervantes"],
+      "answer": 0
+    }
+  ]
+},
+
+{
+  "name": "María Silva Cruz “La Libertaria”",
+  "city": "Casas Viejas (Cádiz)",
+  "coords": [36.3443, -5.8125],
+  "category": "Militante anarquista",
+  "type": "activistas",
+  "bio": "Superviviente de los Sucesos de Casas Viejas, militante anarquista desde la adolescencia y símbolo de la represión franquista. Su vida breve y valiente se ha convertido en un referente para la memoria histórica y el feminismo andaluz.",
+  "born": 1915,
+  "died": 1936,
+  "areas": ["anarquismo", "movimientos sociales", "memoria histórica"],
+  "epoch": "1915–1936",
+  "slides": [
+    {
+      "title": "Infancia humilde y despertar político",
+      "text": "María nació en 1915 en Casas Viejas, en una familia jornalera y carbonera muy pobre. Creció escuchando en casa historias de injusticia, pobreza y las ideas anarquistas que circulaban por el campo andaluz. De niña cosía y ayudaba en las tareas domésticas, pero también se escapaba a escuchar a su abuela leer novelas y folletos, abriendo la puerta a otros mundos posibles.",
+      "image": "libertaria_infancia.jpg"
+    },
+    {
+      "title": "“Amor y Armonía”: leer, pensar y organizarse",
+      "text": "Muy joven se acercó al movimiento anarquista, influida por la CNT y por la tradición libertaria de su entorno. Junto a su amiga Manuela Lago, su hermana Catalina y otras vecinas creó el grupo de mujeres “Amor y Armonía”, donde leían en voz alta, hablaban de política y cultura y pensaban cómo transformar su realidad en un pueblo donde a las chicas se les pedía callar y obedecer.",
+      "image": "libertaria_grupo.jpg"
+    },
+    {
+      "title": "Los Sucesos de Casas Viejas",
+      "text": "En enero de 1933, con solo 16 años, salió por las calles con la bandera rojinegra convencida de que por fin llegaba el comunismo libertario y la expropiación de tierras. La respuesta del Estado fue brutal: la choza de su abuelo “Seisdedos” fue incendiada con hombres, mujeres y criaturas dentro. Casi todos murieron; solo María y un niño lograron escapar con vida.",
+      "image": "casas_viejas.jpeg"
+    },
+    {
+      "title": "De superviviente a símbolo",
+      "text": "Tras dos días escondida, fue detenida y pasó por las cárceles de Medina Sidonia y Cádiz. La imagen de aquella muchacha que había sobrevivido al fuego se convirtió en noticia en toda España y fue utilizada como símbolo tanto del sufrimiento campesino como de la brutalidad de la represión estatal.",
+      "image": "libertaria_carcel.jpg"
+    },
+    {
+      "title": "Amor, militancia y maternidad en guerra",
+      "text": "En prisión conoció al periodista y militante anarquista Miguel Pérez Cordón, con quien mantuvo una relación en unión libre. Juntos se trasladaron a Madrid y siguieron militando. Poco después del golpe militar de 1936 fue detenida en Paterna, trasladada a Medina Sidonia y encarcelada hasta el nacimiento de su hijo, Sidonio.",
+      "image": "libertaria_miguel.jpg"
+    },
+    {
+      "title": "Asesinada con 21 años",
+      "text": "Las crónicas orales cuentan que todavía estaba amamantando a su hijo cuando la sacaron de la prisión para fusilarla en la zona de la Laguna de la Janda, en agosto de 1936. Tenía solo 21 años y su cuerpo continúa desaparecido en las cunetas de Cádiz.",
+      "image": "libertaria_fusilamiento.jpg"
+    },
+    {
+      "title": "Memoria, homenaje y referente para hoy",
+      "text": "Tras décadas de silencio durante el franquismo, su figura ha sido recuperada por la memoria histórica, el movimiento libertario y su propia familia. Hoy da nombre a calles y placas en Benalup-Casas Viejas y La Janda, y se presenta como ejemplo de joven que lee, se organiza y no se resigna, incluso viniendo de un pueblo pobre y con muy pocos recursos.",
+      "image": "libertaria_memoria.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Cómo se llamaba el grupo de mujeres que creó junto a sus amigas en Casas Viejas?",
+      "options": ["Amor y Armonía", "Mujeres Libres", "La Voz de las Jornaleras"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué la convirtió en símbolo tras los Sucesos de Casas Viejas?",
+      "options": [
+        "Ser la joven que sobrevivió al incendio de la choza de “Seisdedos”",
+        "Ser la primera concejala de su pueblo",
+        "Haber estudiado en la universidad"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Silvia Reyes",
+  "city": "Las Palmas de Gran Canaria",
+  "coords": [28.1235, -15.4363],
+  "category": "Pionera trans y activista LGTBI",
+  "type": "activistas",
+  "bio": "Una de las grandes pioneras trans en España, símbolo de resistencia frente al franquismo y de lucha por los derechos LGTBI.",
+  "born": 1949,
+  "died": 2024,
+  "areas": ["activismo", "derechos humanos", "lgtbi", "memoria histórica"],
+  "epoch": "1949–2024",
+  "slides": [
+    {
+      "title": "Infancia, huida y supervivencia",
+      "text": "Nació en una familia humilde de Las Palmas y desde muy joven se expresó como chica, lo que le costó agresiones y rechazo familiar. En los años 70 huyó a Barcelona buscando libertad, pero se encontró con la Ley de Peligrosidad y Rehabilitación Social, que permitía detenerla solo por ser una mujer trans.",
+      "image": "silvia_infancia.jpg"
+    },
+    {
+      "title": "Detenciones y violencia cotidiana",
+      "text": "Llegó a pasar por comisaría y cárcel más de cincuenta veces en dos décadas, simplemente por su forma de vestir, de andar o de vivir su identidad. Sufrió humillaciones, golpes y detenciones arbitrarias que muestran hasta qué punto la dictadura perseguía a las personas trans en la calle.",
+      "image": "silvia_detenciones.jpg"
+    },
+    {
+      "title": "Activista en la primera gran manifestación LGTBI",
+      "text": "Participó en el Orgullo de Barcelona de 1977, la primera gran manifestación LGTBI del país, donde fue una de las caras visibles del bloque trans y gritó “¡Basta ya!” contra la represión policial. A lo largo de los años 80 y 90 siguió denunciando la violencia contra las mujeres trans, especialmente las trabajadoras del sexo.",
+      "image": "silvia_orgullo1977.jpg"
+    },
+    {
+      "title": "Memoria histórica y testimonio imprescindible",
+      "text": "En democracia, su testimonio quedó recogido en proyectos como el documental “Crits de llibertat” y el libro “La doble transición”. Su voz explicó cómo muchas mujeres trans pagaron con su propio cuerpo la apertura del camino de libertad del que hoy disfrutan otras generaciones.",
+      "image": "silvia_memoria.jpg"
+    },
+    {
+      "title": "Resignificar los espacios de violencia",
+      "text": "En una de sus detenciones la llevaron a una cárcel de hombres, la desnudaron y la pasearon para humillarla. Años después volvió allí invitada a un acto de memoria y dijo: “Aquí me encarcelaron por travesti; hoy entro como invitada”, transformando un lugar de dolor en un acto político de dignidad.",
+      "image": "silvia_carcela.jpg"
+    },
+    {
+      "title": "Supervivencia y legado para las jóvenes",
+      "text": "Se definía como una superviviente y decía que su mayor victoria no era una ley concreta, sino haber sobrevivido y seguir saliendo a la calle con orgullo a los 60 y 70 años. Para las chicas de hoy, su vida enseña que defender quién eres, incluso cuando el entorno te señala como delito, puede cambiar leyes y abrir espacios de libertad para quienes vienen detrás.",
+      "image": "silvia_legacy.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué ley permitió perseguir y detener a Silvia Reyes solo por ser una mujer trans?",
+      "options": [
+        "La Ley de Peligrosidad y Rehabilitación Social",
+        "La Ley Trans estatal",
+        "La Ley de Amnistía"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿En qué histórico acontecimiento participó Silvia en 1977?",
+      "options": [
+        "En el primer gran Orgullo LGTBI de Barcelona",
+        "En la firma de la Constitución",
+        "En una cumbre de la ONU"
+      ],
+      "answer": 0
+    }
+  ]
+},
+
+{
+  "name": "Sana Khouja",
+  "city": "Barcelona",
+  "coords": [41.3851, 2.1734],
+  "category": "Emprendedora ",
+  "type": "Emprendedora y fundadora de Zeena",
+  "bio": "Fundadora de Zeena, un vino ecológico y vegano en lata nacido en el barrio del Raval con solo 106 euros, ejemplo de emprendimiento femenino diverso y sostenible.",
+  "born": null,
+  "died": null,
+  "areas": ["empresa", "emprendimiento", "sostenibilidad", "mujeres referentes"],
+  "epoch": "2000–actualidad",
+  "slides": [
+    {
+      "title": "Del Raval a la idea de emprender",
+      "text": "Creció en el barrio del Raval, en Barcelona, en una familia humilde de origen marroquí donde emprender no era lo habitual. Trabajó en hostelería y en el sector del vino, viendo de cerca un mundo muy tradicional y poco diverso, lejos de la realidad de la gente joven y de su propio entorno.",
+      "image": "sana_raval.jpg"
+    },
+    {
+      "title": "La idea loca del vino en lata",
+      "text": "En 2019, con solo 106 euros en su cuenta, decidió lanzar Zeena: un vino ecológico y vegano en lata pensado para jóvenes, para llevar a la playa, al parque o a conciertos. Frente a quienes decían que el vino en lata “no funcionaría en España”, apostó por un producto diferente, cuidando calidad, diseño y un mensaje feminista y sostenible.",
+      "image": "sana_zeena_lata.jpg"
+    },
+    {
+      "title": "Emprender desde el salón de casa",
+      "text": "Empezó literalmente desde su casa, ocupándose de todo: producto, llamadas a bares y festivales, redes sociales y envío de pedidos. Ese trabajo de hormiguita, prueba y error, fue construyendo la base de la marca sin grandes inversiones ni apellidos conocidos.",
+      "image": "sana_casa_startup.jpg"
+    },
+    {
+      "title": "Zeena se expande al mundo",
+      "text": "Poco a poco Zeena fue entrando en restaurantes, festivales de música y tiendas especializadas, y acabó llegando a mercados como Japón o Latinoamérica. Su historia muestra que una chica de barrio puede crear una marca internacional combinando producto cuidado, identidad propia y valores claros.",
+      "image": "sana_zeena_mundo.jpg"
+    },
+    {
+      "title": "Por qué es un referente para chicas jóvenes",
+      "text": "Sana demuestra que se puede emprender sin venir de una familia empresaria ni tener mucho capital inicial. Su proyecto mezcla diversidad, sostenibilidad y feminismo, ofreciendo a las chicas jóvenes un modelo de liderazgo cercano, creativamente valiente y muy conectado con su contexto.",
+      "image": "sana_referente.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Con cuánto dinero en su cuenta decidió lanzar Zeena?",
+      "options": ["106 euros", "1.000 euros", "10.000 euros"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué hace diferente a Zeena frente al vino tradicional?",
+      "options": [
+        "Es un vino ecológico y vegano en lata pensado para un consumo más informal",
+        "Se vende solo en botellas de cristal muy caras",
+        "No presta atención al diseño ni al mensaje de la marca"
+      ],
+      "answer": 0
+    }
+  ]
+},
+
+{
+  "name": "María Silva Cruz “La Libertaria”",
+  "city": "Casas Viejas (Cádiz)",
+  "coords": [36.3443, -5.8125],
+  "category": "Activista",
+  "type": "activistas",
+  "bio": "Superviviente de los Sucesos de Casas Viejas, militante anarquista desde la adolescencia y símbolo de la represión franquista. Su vida breve y valiente se ha convertido en un referente para la memoria histórica y el feminismo andaluz.",
+  "born": 1915,
+  "died": 1936,
+  "areas": ["anarquismo", "movimientos sociales", "memoria histórica"],
+  "epoch": "1915–1936",
+  "slides": [
+    {
+      "title": "Infancia humilde y despertar político",
+      "text": "María nació en 1915 en Casas Viejas, en una familia jornalera y carbonera muy pobre. Creció escuchando en casa historias de injusticia, pobreza y las ideas anarquistas que circulaban por el campo andaluz. De niña cosía y ayudaba en las tareas domésticas, pero también se escapaba a escuchar a su abuela leer novelas y folletos, abriendo la puerta a otros mundos posibles.",
+      "image": "libertaria_infancia.jpg"
+    },
+    {
+      "title": "“Amor y Armonía”: leer, pensar y organizarse",
+      "text": "Muy joven se acercó al movimiento anarquista, influida por la CNT y por la tradición libertaria de su entorno. Junto a su amiga Manuela Lago, su hermana Catalina y otras vecinas creó el grupo de mujeres “Amor y Armonía”, donde leían en voz alta, hablaban de política y cultura y pensaban cómo transformar su realidad en un pueblo donde a las chicas se les pedía callar y obedecer.",
+      "image": "libertaria_grupo.jpg"
+    },
+    {
+      "title": "Los Sucesos de Casas Viejas",
+      "text": "En enero de 1933, con solo 16 años, salió por las calles con la bandera rojinegra convencida de que por fin llegaba el comunismo libertario y la expropiación de tierras. La respuesta del Estado fue brutal: la choza de su abuelo “Seisdedos” fue incendiada con hombres, mujeres y criaturas dentro. Casi todos murieron; solo María y un niño lograron escapar con vida.",
+      "image": "casas_viejas.jpeg"
+    },
+    {
+      "title": "De superviviente a símbolo",
+      "text": "Tras dos días escondida, fue detenida y pasó por las cárceles de Medina Sidonia y Cádiz. La imagen de aquella muchacha que había sobrevivido al fuego se convirtió en noticia en toda España y fue utilizada como símbolo tanto del sufrimiento campesino como de la brutalidad de la represión estatal.",
+      "image": "libertaria_carcel.jpg"
+    },
+    {
+      "title": "Amor, militancia y maternidad en guerra",
+      "text": "En prisión conoció al periodista y militante anarquista Miguel Pérez Cordón, con quien mantuvo una relación en unión libre. Juntos se trasladaron a Madrid y siguieron militando. Poco después del golpe militar de 1936 fue detenida en Paterna, trasladada a Medina Sidonia y encarcelada hasta el nacimiento de su hijo, Sidonio.",
+      "image": "libertaria_miguel.jpg"
+    },
+    {
+      "title": "Asesinada con 21 años",
+      "text": "Las crónicas orales cuentan que todavía estaba amamantando a su hijo cuando la sacaron de la prisión para fusilarla en la zona de la Laguna de la Janda, en agosto de 1936. Tenía solo 21 años y su cuerpo continúa desaparecido en las cunetas de Cádiz.",
+      "image": "libertaria_fusilamiento.jpg"
+    },
+    {
+      "title": "Memoria, homenaje y referente para hoy",
+      "text": "Tras décadas de silencio durante el franquismo, su figura ha sido recuperada por la memoria histórica, el movimiento libertario y su propia familia. Hoy da nombre a calles y placas en Benalup-Casas Viejas y La Janda, y se presenta como ejemplo de joven que lee, se organiza y no se resigna, incluso viniendo de un pueblo pobre y con muy pocos recursos.",
+      "image": "libertaria_memoria.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Cómo se llamaba el grupo de mujeres que creó junto a sus amigas en Casas Viejas?",
+      "options": ["Amor y Armonía", "Mujeres Libres", "La Voz de las Jornaleras"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué la convirtió en símbolo tras los Sucesos de Casas Viejas?",
+      "options": [
+        "Ser la joven que sobrevivió al incendio de la choza de “Seisdedos”",
+        "Ser la primera concejala de su pueblo",
+        "Haber estudiado en la universidad"
+      ],
+      "answer": 0
+    }
+  ]
+},
+
+{
+  "name": "Silvia Reyes",
+  "city": "Las Palmas de Gran Canaria",
+  "coords": [28.1235, -15.4363],
+  "category": "Activista",
+  "type": "activistas",
+  "bio": "Una de las grandes pioneras trans en España, símbolo de resistencia frente al franquismo y de lucha por los derechos LGTBI.",
+  "born": 1949,
+  "died": 2024,
+  "areas": ["activismo", "derechos humanos", "lgtbi", "memoria histórica"],
+  "epoch": "1949–2024",
+  "slides": [
+    {
+      "title": "Infancia, huida y supervivencia",
+      "text": "Nació en una familia humilde de Las Palmas y desde muy joven se expresó como chica, lo que le costó agresiones y rechazo familiar. En los años 70 huyó a Barcelona buscando libertad, pero se encontró con la Ley de Peligrosidad y Rehabilitación Social, que permitía detenerla solo por ser una mujer trans.",
+      "image": "silvia_infancia.jpg"
+    },
+    {
+      "title": "Detenciones y violencia cotidiana",
+      "text": "Llegó a pasar por comisaría y cárcel más de cincuenta veces en dos décadas, simplemente por su forma de vestir, de andar o de vivir su identidad. Sufrió humillaciones, golpes y detenciones arbitrarias que muestran hasta qué punto la dictadura perseguía a las personas trans en la calle.",
+      "image": "silvia_detenciones.jpg"
+    },
+    {
+      "title": "Activista en la primera gran manifestación LGTBI",
+      "text": "Participó en el Orgullo de Barcelona de 1977, la primera gran manifestación LGTBI del país, donde fue una de las caras visibles del bloque trans y gritó “¡Basta ya!” contra la represión policial. A lo largo de los años 80 y 90 siguió denunciando la violencia contra las mujeres trans, especialmente las trabajadoras del sexo.",
+      "image": "silvia_orgullo1977.jpg"
+    },
+    {
+      "title": "Memoria histórica y testimonio imprescindible",
+      "text": "En democracia, su testimonio quedó recogido en proyectos como el documental “Crits de llibertat” y el libro “La doble transición”. Su voz explicó cómo muchas mujeres trans pagaron con su propio cuerpo la apertura del camino de libertad del que hoy disfrutan otras generaciones.",
+      "image": "silvia_memoria.jpg"
+    },
+    {
+      "title": "Resignificar los espacios de violencia",
+      "text": "En una de sus detenciones la llevaron a una cárcel de hombres, la desnudaron y la pasearon para humillarla. Años después volvió allí invitada a un acto de memoria y dijo: “Aquí me encarcelaron por travesti; hoy entro como invitada”, transformando un lugar de dolor en un acto político de dignidad.",
+      "image": "silvia_carcela.jpg"
+    },
+    {
+      "title": "Supervivencia y legado para las jóvenes",
+      "text": "Se definía como una superviviente y decía que su mayor victoria no era una ley concreta, sino haber sobrevivido y seguir saliendo a la calle con orgullo a los 60 y 70 años. Para las chicas de hoy, su vida enseña que defender quién eres, incluso cuando el entorno te señala como delito, puede cambiar leyes y abrir espacios de libertad para quienes vienen detrás.",
+      "image": "silvia_legacy.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué ley permitió perseguir y detener a Silvia Reyes solo por ser una mujer trans?",
+      "options": [
+        "La Ley de Peligrosidad y Rehabilitación Social",
+        "La Ley Trans estatal",
+        "La Ley de Amnistía"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿En qué histórico acontecimiento participó Silvia en 1977?",
+      "options": [
+        "En el primer gran Orgullo LGTBI de Barcelona",
+        "En la firma de la Constitución",
+        "En una cumbre de la ONU"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Sana Khouja",
+  "city": "Barcelona",
+  "coords": [41.3851, 2.1734],
+  "category": "Emprendedora",
+  "type": "negocios",
+  "bio": "Fundadora de Zeena, un vino ecológico y vegano en lata nacido en el barrio del Raval con solo 106 euros, ejemplo de emprendimiento femenino diverso y sostenible.",
+  "born": null,
+  "died": null,
+  "areas": ["empresa", "emprendimiento", "sostenibilidad", "mujeres referentes"],
+  "epoch": "2000–actualidad",
+  "slides": [
+    {
+      "title": "Del Raval a la idea de emprender",
+      "text": "Creció en el barrio del Raval, en Barcelona, en una familia humilde de origen marroquí donde emprender no era lo habitual. Trabajó en hostelería y en el sector del vino, viendo de cerca un mundo muy tradicional y poco diverso, lejos de la realidad de la gente joven y de su propio entorno.",
+      "image": "sana_raval.jpg"
+    },
+    {
+      "title": "La idea loca del vino en lata",
+      "text": "En 2019, con solo 106 euros en su cuenta, decidió lanzar Zeena: un vino ecológico y vegano en lata pensado para jóvenes, para llevar a la playa, al parque o a conciertos. Frente a quienes decían que el vino en lata “no funcionaría en España”, apostó por un producto diferente, cuidando calidad, diseño y un mensaje feminista y sostenible.",
+      "image": "sana_zeena_lata.jpg"
+    },
+    {
+      "title": "Emprender desde el salón de casa",
+      "text": "Empezó literalmente desde su casa, ocupándose de todo: producto, llamadas a bares y festivales, redes sociales y envío de pedidos. Ese trabajo de hormiguita, prueba y error, fue construyendo la base de la marca sin grandes inversiones ni apellidos conocidos.",
+      "image": "sana_casa_startup.jpg"
+    },
+    {
+      "title": "Zeena se expande al mundo",
+      "text": "Poco a poco Zeena fue entrando en restaurantes, festivales de música y tiendas especializadas, y acabó llegando a mercados como Japón o Latinoamérica. Su historia muestra que una chica de barrio puede crear una marca internacional combinando producto cuidado, identidad propia y valores claros.",
+      "image": "sana_zeena_mundo.jpg"
+    },
+    {
+      "title": "Por qué es un referente para chicas jóvenes",
+      "text": "Sana demuestra que se puede emprender sin venir de una familia empresaria ni tener mucho capital inicial. Su proyecto mezcla diversidad, sostenibilidad y feminismo, ofreciendo a las chicas jóvenes un modelo de liderazgo cercano, creativamente valiente y muy conectado con su contexto.",
+      "image": "sana_referente.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Con cuánto dinero en su cuenta decidió lanzar Zeena?",
+      "options": ["106 euros", "1.000 euros", "10.000 euros"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué hace diferente a Zeena frente al vino tradicional?",
+      "options": [
+        "Es un vino ecológico y vegano en lata pensado para un consumo más informal",
+        "Se vende solo en botellas de cristal muy caras",
+        "No presta atención al diseño ni al mensaje de la marca"
+      ],
+      "answer": 0
+    }
+  ]
+},
+
+{
+  "name": "María José Alonso",
+  "city": "Carrizo de la Ribera (León) / Santiago de Compostela",
+  "coords": [42.5986, -5.8220],
+  "category": "Científica",
+  "type": "investigación",
+  "bio": "Pionera mundial en nanotecnología farmacéutica; diseña nanopartículas que llevan medicamentos y vacunas justo donde hacen falta, con decenas de patentes y varias startups.",
+  "born": 1958,
+  "died": null,
+  "areas": ["farmacia", "nanotecnología", "investigación", "emprendimiento"],
+  "epoch": "1958–actualidad",
+  "slides": [
+    {
+      "title": "De un pueblo leonés a la farmacia global",
+      "text": "Nació en un pequeño pueblo de León, en un entorno donde no era habitual que las niñas llegaran a la universidad. Se trasladó a Santiago de Compostela para estudiar Farmacia y se doctoró investigando cómo mejorar la absorción de medicamentos en el cuerpo.",
+      "image": "alonso_infancia.jpg"
+    },
+    {
+      "title": "Formación internacional y el salto a la nanotecnología",
+      "text": "Se formó en universidades de Francia y en el MIT de Estados Unidos, donde aprendió las bases de la nanotecnología aplicada a fármacos. Volvió a España para montar el primer laboratorio de nanotecnología farmacéutica del país en la Universidad de Santiago de Compostela.",
+      "image": "alonso_mit.jpg"
+    },
+    {
+      "title": "Nanopartículas que llevan el fármaco al lugar correcto",
+      "text": "Su trabajo se centra en diseñar nanopartículas biodegradables que actúan como mensajeros, llevando medicamentos a tejidos enfermos y mejorando su eficacia. Ha trabajado en tratamientos para cáncer, enfermedades autoinmunes y patologías oculares, colaborando con organizaciones internacionales.",
+      "image": "alonso_nanoparticulas.jpg"
+    },
+    {
+      "title": "Vacunas más accesibles y duraderas",
+      "text": "También ha sido pionera en sistemas de liberación controlada de vacunas que permiten respuestas inmunes más duraderas y vías de administración más sencillas. Su tecnología se ha aplicado a vacunas para infecciones complejas y a formulaciones pensadas para países en desarrollo.",
+      "image": "alonso_vacunas.jpg"
+    },
+    {
+      "title": "Patentes, startups y liderazgo científico",
+      "text": "Cuenta con más de veinte familias de patentes licenciadas a la industria y ha fundado varias startups para llevar sus ideas al mercado. Ha ocupado cargos de liderazgo en sociedades científicas internacionales y figura entre las personas más citadas del mundo en farmacología y toxicología.",
+      "image": "alonso_premios.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué diseñan las nanopartículas con las que trabaja María José Alonso?",
+      "options": [
+        "Sistemas que llevan medicamentos y vacunas justo al tejido enfermo",
+        "Pinturas más resistentes para edificios",
+        "Componentes electrónicos para móviles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Dónde aprendió las bases de la nanotecnología farmacéutica?",
+      "options": ["En el MIT y universidades francesas", "Solo en su pueblo natal", "En una escuela de arte"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Pilar Bellosillo",
+  "city": "Madrid",
+  "coords": [40.4168, -3.7038],
+  "category": "Activista",
+  "type": "religiosas",
+  "bio": "Laica católica que llevó la voz de las mujeres españolas al Concilio Vaticano II y ayudó a impulsar Manos Unidas y espacios de feminismo cristiano.",
+  "born": 1913,
+  "died": 2003,
+  "areas": ["fe", "feminismo cristiano", "educación", "participación laical"],
+  "epoch": "1913–2003",
+  "slides": [
+    {
+      "title": "De maestra a líder social",
+      "text": "Nació en Madrid en 1913 y se formó como maestra y asistente social, convencida de que la fe debía traducirse en educación y trabajo social concreto con mujeres y familias pobres. Muy pronto comenzó a implicarse en proyectos educativos y de acompañamiento.",
+      "image": "bello_maestra.jpg"
+    },
+    {
+      "title": "Transformar Acción Católica desde dentro",
+      "text": "Entró en Acción Católica y llegó a ser presidenta de la sección de Jóvenes y después de Mujeres. Impulsó Centros de Formación Social donde las mujeres hablaban de política, economía y justicia, pasando de un modelo solo piadoso a un compromiso crítico con la realidad.",
+      "image": "bello_accion_catolica.jpg"
+    },
+    {
+      "title": "Campaña contra el hambre y Manos Unidas",
+      "text": "En 1955 impulsó, junto a otras mujeres, la primera Campaña contra el Hambre, que acabaría dando lugar a Manos Unidas. Desde parroquias y colegios promovieron colectas, charlas y materiales para declarar simbólicamente la “guerra al hambre” en nombre de la fe y la justicia.",
+      "image": "bello_manos_unidas.jpg"
+    },
+    {
+      "title": "Una laica española en el Concilio Vaticano II",
+      "text": "Como presidenta de la Unión Mundial de Organizaciones Femeninas Católicas fue nombrada auditora del Concilio Vaticano II, convirtiéndose en la única mujer laica española entre las llamadas “madres del Concilio”. Allí defendió un lenguaje más inclusivo y el protagonismo del laicado y de las mujeres.",
+      "image": "bello_vaticanoII.jpg"
+    },
+    {
+      "title": "Feminismo cristiano y compromiso político",
+      "text": "Cofundó el Foro de Estudios sobre la Mujer y participó en iniciativas de diálogo ecuménico de mujeres cristianas. En el tardofranquismo se implicó también en política, buscando transformar desde dentro estructuras marcadas por el paternalismo y la desigualdad de género.",
+      "image": "bello_foro_mujer.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿En qué gran acontecimiento de la Iglesia participó Pilar Bellosillo como auditora?",
+      "options": ["En el Concilio Vaticano II", "En el Concilio de Trento", "En la Jornada Mundial de la Juventud"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué organización nació de las campañas contra el hambre impulsadas por ella y otras mujeres?",
+      "options": ["Manos Unidas", "Cruz Roja", "Amnistía Internacional"],
+      "answer": 0
+    }
+  ]
+},
+
+{
+  "name": "María Jiménez",
+  "city": "Sevilla (Triana)",
+  "coords": [37.3861, -5.9940],
+  "category": "Artista",
+  "type": "artistas",
+  "bio": "Cantaora y cantante de rumbas, tangos y boleros que convirtió su voz y su vida en un símbolo de supervivencia y rebeldía feminista desde un barrio muy humilde.",
+  "born": 1950,
+  "died": 2023,
+  "areas": ["música", "flamenco", "feminismo popular", "cultura andaluza"],
+  "epoch": "1950–2023",
+  "slides": [
+    {
+      "title": "Triana, pobreza y primeros trabajos",
+      "text": "Nació en el barrio sevillano de Triana en una familia muy pobre, pasó hambre y dejó el colegio pronto para ayudar en casa. Con 15 años se marchó sola a Barcelona como empleada del hogar y limpiadora, hasta que amigos del ambiente artístico la animaron a dedicarse al cante.",
+      "image": "mj_infancia.jpg"
+    },
+    {
+      "title": "De los tablaos al éxito discográfico",
+      "text": "Empezó a cantar en tablaos con el nombre de “María la Pipa” y regresó a Sevilla para actuar en locales de Triana. En 1976 publicó su primer disco y en 1978 llegó el gran éxito con el álbum Se acabó, que la convirtió en una de las voces más reconocibles de la música popular española.",
+      "image": "mj_tablaos.jpg"
+    },
+    {
+      "title": "Un himno contra el maltrato",
+      "text": "El tema “Se acabó” cuenta la historia de una mujer que dice basta a una relación de malos tratos y se transformó en un himno para muchas mujeres en España y México. Su forma directa de cantar sobre deseo, rabia, infidelidades y dignidad conectó con quienes no encontraban palabras para lo que vivían.",
+      "image": "mj_se_acabo.jpg"
+    },
+    {
+      "title": "Violencia, denuncia y fundación propia",
+      "text": "Su vida sentimental fue intensa y marcada por la violencia: sufrió malos tratos en su relación con el actor Pepe Sancho y se atrevió a contarlo públicamente cuando casi nadie lo hacía. En 2022 creó la Fundación María Jiménez para luchar contra la violencia hacia las mujeres, usando su experiencia como altavoz.",
+      "image": "mj_fundacion.jpg"
+    },
+    {
+      "title": "Carácter, humor y compromiso andaluz",
+      "text": "Se definía con humor como “la primera feminista de España” y fue una de las primeras mujeres famosas en hablar de maternidad en solitario en televisión. También apoyó la autonomía andaluza y mantuvo siempre una mezcla de religiosidad popular, desparpajo y sentido del humor muy reconocible.",
+      "image": "mj_caracter.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué canción se convirtió en un himno contra la violencia machista?",
+      "options": ["Se acabó", "Volver", "Mediterráneo"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué hizo María Jiménez en 2022 relacionada con la violencia de género?",
+      "options": [
+        "Creó la Fundación María Jiménez contra la violencia hacia las mujeres",
+        "Dejó de cantar en público",
+        "Se presentó a unas elecciones"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Nerea Luis",
+  "city": "Madrid",
+  "coords": [40.4168, -3.7038],
+  "category": "Tecnológico",
+  "type": "tecnológico",
+  "bio": "Ingeniera informática que pasó de crear webs de anime por afición a convertirse en una de las caras jóvenes de la inteligencia artificial y la divulgación tecnológica en España.",
+  "born": 1991,
+  "died": null,
+  "areas": ["tecnología", "inteligencia artificial", "divulgación", "women in tech"],
+  "epoch": "1990–actualidad",
+  "slides": [
+    {
+      "title": "De Sailor Moon a la programación",
+      "text": "De pequeña era fan del manga y el anime y pasó horas viendo Sailor Moon. Con 12 años creó una web de fans completamente autodidacta y descubrió que detrás de las páginas de Internet había personas programando, lo que la llevó a plantearse estudiar informática.",
+      "image": "nerea_sailor_moon.jpg"
+    },
+    {
+      "title": "Ingeniería informática e inteligencia artificial",
+      "text": "En 2009 empezó Ingeniería Informática en la Universidad Carlos III de Madrid. Allí se enganchó a la inteligencia artificial y la robótica, siguió con máster y doctorado en Ciencias de la Computación y llegó a impartir clases de programación e IA mientras investigaba razonamiento automatizado y planificación.",
+      "image": "nerea_uc3m.jpg"
+    },
+    {
+      "title": "T3chFest: la tecnología para todas",
+      "text": "En 2013 cofundó T3chFest, un festival de ciencia y tecnología gratuito nacido como proyecto estudiantil que reúne a miles de personas cada año. Su objetivo es acercar temas como la ciberseguridad, la IA o los videojuegos a estudiantes y curiosas, con mujeres y minorías ocupando también el escenario.",
+      "image": "nerea_t3chfest.jpg"
+    },
+    {
+      "title": "Reconocimientos y divulgación",
+      "text": "Ha recibido becas como Women Techmakers Scholar de Google, ha participado en la Grace Hopper Conference y forma parte de redes como Los 100 de Cotec. Además, explica tecnologías emergentes en foros como Ciencia en el Parlamento y en medios, desmontando mitos sobre la IA y alertando de riesgos como los sesgos algorítmicos.",
+      "image": "nerea_premios.jpg"
+    },
+    {
+      "title": "Proyectos de IA y referentes cercanos",
+      "text": "Trabaja en proyectos de inteligencia artificial aplicada en la empresa Sngular y como docente en varias universidades. Usa referencias de anime, videojuegos y redes sociales en sus charlas para conectar con estudiantes de instituto que no se ven como ‘genios de las mates’, mostrando que la tecnología también es para ellas.",
+      "image": "nerea_docencia.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué proyecto cofundó Nerea Luis para acercar la tecnología a más gente?",
+      "options": ["T3chFest", "Campus Party", "Nerdear.la"],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué le hizo interesarse por la programación cuando era niña?",
+      "options": [
+        "Crear una web de fans de Sailor Moon",
+        "Un curso obligatorio en el instituto",
+        "Un trabajo de verano en una tienda"
+      ],
+      "answer": 0
+    }
+  ]
+},{
+  "name": "Ana Orantes Ruiz",
+  "city": "Granada / Cúllar Vega",
+  "coords": [37.1765, -3.5979],
+  "category": "Referente contra la violencia de género",
+  "type": "activistas",
+  "bio": "Mujer granadina cuya valentía al contar en televisión 40 años de malos tratos y su asesinato en 1997 la convirtieron en símbolo de la lucha contra la violencia de género en España.",
+  "born": 1937,
+  "died": 1997,
+  "areas": ["derechos humanos", "violencia de género", "memoria", "coeducación"],
+  "epoch": "1937–1997",
+  "slides": [
+    {
+      "title": "Una vida marcada por la violencia",
+      "text": "Nació en Granada en 1937, en una familia humilde, y se casó muy joven con un hombre que ejerció violencia sobre ella durante décadas. Con poca escolarización y sin independencia económica, sacó adelante a una familia numerosa en un contexto donde los malos tratos se consideraban un asunto privado de la pareja.",
+      "image": "ana_orantes_infancia.jpg"
+    },
+    {
+      "title": "Romper el silencio en televisión",
+      "text": "El 4 de diciembre de 1997 acudió a un programa de la televisión andaluza para relatar durante una entrevista los 40 años de malos tratos que había sufrido: golpes, amenazas, humillaciones y el impacto en sus hijos e hijas. Su forma de hablar, sencilla y directa, hizo que muchas personas se reconocieran en su historia.",
+      "image": "ana_orantes_tv.jpg"
+    },
+    {
+      "title": "Un asesinato que cambió conciencias",
+      "text": "Trece días después de esa entrevista, su exmarido la asesinó en el patio de la casa familiar en Cúllar Vega, rociándola con gasolina y prendiéndole fuego. El crimen conmocionó a la sociedad española y convirtió su nombre en símbolo de las víctimas de violencia machista.",
+      "image": "ana_orantes_memoria.jpg"
+    },
+    {
+      "title": "Impacto en las leyes y en las aulas",
+      "text": "Su caso se considera un punto de inflexión que impulsó un cambio de mirada institucional y social sobre la violencia machista, contribuyendo al camino que culminó en la ley integral de 2004. En Andalucía se ha incorporado su historia a materiales escolares para trabajar igualdad y prevención de la violencia de género.",
+      "image": "ana_orantes_ley.jpg"
+    },
+    {
+      "title": "Curiosidades y rasgos personales",
+      "text": "Quienes la conocieron recuerdan que, pese a haber vivido tanto dolor, era cercana, habladora y muy protectora con sus hijos e hijas: decía que rompía el silencio por ellas y ellos, para que no repitieran su historia. En el pueblo la veían como una mujer trabajadora y luchadora, que se encargaba de la casa, de la familia y de los cuidados, y que decidió ir a televisión cuando sintió que ya no tenía nada que perder y sí mucho que ganar contando la verdad.",
+      "image": "ana_orantes_personal.jpg"
+    },
+    {
+      "title": "Por qué es un referente para el alumnado",
+      "text": "Su nombre da título a bibliotecas, actividades educativas y escuelas de igualdad, y se utiliza como ejemplo para explicar que la violencia machista no es un problema individual, sino social. Para chicas y chicos de hoy, su historia ayuda a identificar señales de maltrato y a entender que pedir ayuda y creer a las víctimas puede salvar vidas.",
+      "image": "ana_orantes_aula.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué gesto convirtió a Ana Orantes en referente contra la violencia de género?",
+      "options": [
+        "Contar en televisión los malos tratos sufridos durante 40 años",
+        "Presentarse a la alcaldía de su pueblo",
+        "Escribir una novela policíaca"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Por qué se estudia hoy su historia en algunos centros educativos?",
+      "options": [
+        "Porque ayuda a entender la violencia machista y la importancia de romper el silencio",
+        "Porque fue una cantante famosa",
+        "Porque ganó varios concursos de televisión"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Mariana Pineda",
+  "city": "Granada",
+  "coords": [37.1765, -3.5979],
+  "category": "Heroína liberal",
+  "type": "activistas",
+  "bio": "Joven granadina del siglo XIX que se convirtió en símbolo de libertad por apoyar a los liberales, ayudar a perseguidos y bordar una bandera con las palabras ‘Ley, Libertad, Igualdad’.",
+  "born": 1804,
+  "died": 1831,
+  "areas": ["liberalismo", "derechos", "memoria histórica"],
+  "epoch": "1804–1831",
+  "slides": [
+    {
+      "title": "Una chica de Granada en tiempos revueltos",
+      "text": "Mariana nació en Granada en 1804, en una familia complicada para su época: su padre era un capitán de la Armada y su madre una mujer de origen humilde. Creció en un ambiente donde se hablaba de política, de libertad y de injusticias, y desde muy joven se acostumbró a escuchar a personas que no estaban de acuerdo con el rey absoluto de turno.",
+      "image": "mariana_infancia.jpg"
+    },
+    {
+      "title": "Viuda, madre… y metida en política",
+      "text": "Se casó adolescente con un militar de ideas liberales y quedó viuda muy pronto, con dos criaturas pequeñas. En vez de mantenerse al margen, abrió su casa a amigos perseguidos, ayudó a personas presas por sus ideas y se movió en una red clandestina de gente que soñaba con una España con Constitución y derechos.",
+      "image": "mariana_viuda.jpg"
+    },
+    {
+      "title": "La famosa bandera de ‘Ley, Libertad, Igualdad’",
+      "text": "Su gesto más conocido fue bordar una bandera con las palabras ‘Ley, Libertad, Igualdad’ para un levantamiento liberal. Cuando la policía registró su casa y encontró la bandera, aquello fue la prueba perfecta para acusarla de conspirar contra el rey Fernando VII, que quería aplastar cualquier intento de cambiar las cosas.",
+      "image": "mariana_bandera.jpg"
+    },
+    {
+      "title": "Juicio, garrote vil y una decisión difícil",
+      "text": "Tras ser detenida, le ofrecieron salvar la vida a cambio de delatar a sus compañeros. Tenía poco más de veinte años, dos hijos y sabía que la esperaban el garrote vil y la humillación pública. Aun así, se negó a delatar a nadie y mantuvo sus ideas hasta el final, lo que la convirtió en mártir de la causa liberal.",
+      "image": "mariana_juicio.jpg"
+    },
+    {
+      "title": "Curiosidades y detalles que la hacen muy humana",
+      "text": "Tenía fama de valiente y de tener carácter, pero también de ser hospitalaria: en su casa se reunían liberales, familiares y amistades a debatir y a tramar fugas y pasaportes falsos para perseguidos. La leyenda dice que el juez que la condenó estaba enamorado de ella, y que eso hizo el caso todavía más tenso; años después, su historia inspiró romances, canciones populares y una obra de teatro de Federico García Lorca, así que, sin quererlo, Mariana acabó convirtiéndose también en personaje literario.",
+      "image": "mariana_curiosidades.jpg"
+    },
+    {
+      "title": "Un icono de libertad hasta hoy",
+      "text": "La ejecutaron en Granada en 1831, con solo 26 años, y quemaron la bandera que había bordado. Sin embargo, su nombre sobrevivió: hoy se la recuerda como un icono de la lucha contra la tiranía y a favor de los derechos, y su figura sigue apareciendo en canciones, monumentos y proyectos que hablan de libertad y desobediencia frente a la injusticia.",
+      "image": "mariana_impacto.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué bordó Mariana Pineda en la bandera que se hizo famosa?",
+      "options": [
+        "Las palabras ‘Ley, Libertad, Igualdad’",
+        "Solo el escudo del rey",
+        "Su nombre y la fecha de boda"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué decisión tomó cuando la detuvieron?",
+      "options": [
+        "Se negó a delatar a sus compañeros aunque sabía que la ejecutarían",
+        "Aceptó delatar a cambio de dinero",
+        "Se exilió voluntariamente a otro país"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Victorina Cantó",
+  "city": "Barcelona",
+  "coords": [41.3851, 2.1734],
+  "category": "Vendedora y emprendedora libertaria",
+  "type": "negocios",
+  "bio": "Mujer de los Encants barceloneses que montó su propio negocio en plena posguerra franquista, negociando con proveedores y clientes mientras mantenía viva su identidad anarquista en la clandestinidad.",
+  "born": 1920,
+  "died": 2005,
+  "areas": ["emprendimiento", "franquismo", "anarquismo", "clase trabajadora"],
+  "epoch": "1920–2005",
+  "slides": [
+    {
+      "title": "Del anarquismo a la supervivencia en los Encants",
+      "text": "Victorina nació en Barcelona en una familia obrera y creció en ambientes libertarios; antes de la Guerra Civil ya simpatizaba con las ideas anarquistas. Cuando acabó la guerra, con Franco en el poder y la represión disparada, muchas familias como la suya se vieron hundidas. Sin dinero, sin empleos seguros y con un horizonte muy gris, ella decidió buscarse la vida: los Encants, el mercadillo más grande de Barcelona, se convirtió en su reino.",
+      "image": "victorina_encants.jpg"
+    },
+    {
+      "title": "Una mujer en el reino de los hombres",
+      "text": "Los Encants eran un espacio ruidoso, caótico y brutalmente masculino: vendedores de chatarra, tratantes, timadores, excombatientes sin más ocupación… Victorina llegó allí y montó su propio puesto. No era la esposa del vendedor, ni la empleada: era ella la que regateaba con proveedores, cuidaba su caja y negociaba cada precio. En ese mundo de hombres rudos que se emborrachaban en los bares cercanos, ella se hizo un hueco con carácter y astucia.",
+      "image": "victorina_puesto.jpg"
+    },
+    {
+      "title": "Vendedora, emprendedora, y anarquista en la clandestinidad",
+      "text": "Mientras vendía día tras día en los Encants, Victorina mantenía viva su identidad libertaria en la sombra. Se relacionaba con antiguos cenetistas, escuchaba radio en frecuencias prohibidas, ayudaba a gente de su entorno cuando podía y hablaba de política en voz baja cuando era seguro. Su negocio no era un despacho elegante: era una lucha silenciosa por mantenerse autónoma, ganar su dinero y preservar su dignidad y sus ideas en un régimen que quería aplastarlas.",
+      "image": "victorina_anarquista.jpg"
+    },
+    {
+      "title": "Curiosidades de una vida entre el mercado y la clandestinidad",
+      "text": "Quienes la conocían recuerdan que Victorina era tozuda, ingeniosa y poco dispuesta a aceptar el papel sumiso que el franquismo reservaba a las mujeres. Sabía jugar el juego del regateo mejor que muchos hombres, se reía en la cara de los que intentaban engañarla y no dudaba en levantar la voz cuando era necesario. No frecuentaba iglesias sino cafés obreros; no llevaba mantilla sino un pañuelo de trabajo. Vivió varias décadas entre el ruido de las chatarras y el murmullo de conversaciones políticas susurradas, sin perder nunca su brújula libertaria ni su sonrisa burlona ante la autoridad.",
+      "image": "victorina_caracterxxx.jpg"
+    },
+    {
+      "title": "Un legado de resistencia económica y política",
+      "text": "Victorina representa algo que a menudo se olvida: que la resistencia al franquismo no vino solo de grandes gestos heroicos, sino también de mujeres trabajadoras que se negaban a vivir como el régimen les mandaba. Ella no rompió barricadas, pero sí rompió el molde de la mujer sumisa, trabajó por cuenta propia en un mercado de hombres y mantuvo viva una idea de libertad en los márgenes de la sociedad oficial. Su vida demuestra que se puede ser emprendedora, mujer y rebelde al mismo tiempo, incluso en los momentos más oscuros.",
+      "image": "victorina_legado.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿En qué lugar de Barcelona montó Victorina su negocio?",
+      "options": [
+        "En los Encants, un mercadillo popular",
+        "En una tienda de lujo del Paseo de Gracia",
+        "En una fábrica textil del Raval"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué hace especial la historia de Victorina Cantó?",
+      "options": [
+        "Que fue mujer empresaria, anarquista y resistió al franquismo todo a la vez",
+        "Que fue la alcaldesa de Barcelona",
+        "Que escribió novelas sobre los Encants"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Cuál era su rol en los Encants?",
+      "options": [
+        "No solo vendía, sino que regateaba con proveedores y llevaba su propio negocio",
+        "Trabajaba para un patrón que le pagaba un salario fijo",
+        "Era policía encubierta vigilando el mercado"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Josefa",
+  "city": "Manresa",
+  "coords": [41.7339, 1.8344],
+  "category": "Obrera textil y activista laboral",
+  "type": "negocios",
+  "bio": "Trabajadora textil de Manresa que lideró una huelga en plena dictadura franquista, encerrándose en la fábrica con sus compañeras para exigir mejores salarios y condiciones laborales, consiguiendo una victoria que se extendió a otras empresas.",
+  "born": 1920,
+  "died": 2000,
+  "areas": ["derechos laborales", "feminismo obrero", "franquismo", "huelga"],
+  "epoch": "1920–2000",
+  "slides": [
+    {
+      "title": "Una tejedora en la posguerra",
+      "text": "Josefa nació en Manresa, una ciudad de Cataluña famosa por sus fábricas textiles. Como miles de mujeres de su época, entró a trabajar en la fábrica siendo muy joven, tejiendo, cosiendo y operando máquinas en jornadas larguísimas, con frío, ruido y un sueldo que apenas llegaba para comer. El franquismo le repetía que su 'verdadero lugar' era en casa, pero ella y sus compañeras sostenían la economía familiar desde el taller.",
+      "image": "josefa_fabrica.jpg"
+    },
+    {
+      "title": "El encierro: una decisión de mujeres",
+      "text": "En 1946, Josefa y docenas de compañeras de la fábrica tomaron una decisión peligrosa: encerrarse dentro de la nave y declararse en huelga para exigir una subida de salarios. Era ilegal y muy arriesgado en plena dictadura. Lo que más impresionaba de su relato es que, como ella misma decía años después, 'los hombres pocos que había salieron, nos quedamos las mujeres': fueron ellas las que sostuvieron el encierro hasta el final.",
+      "image": "josefa_encierro.jpg"
+    },
+    {
+      "title": "Guardias civiles, miedo y solidaridad",
+      "text": "La Guardia Civil rodeó la fábrica y llegó a apuntarlas con pistolas para que abandonaran la huelga. Dentro, las obreras aguantaban el frío, el cansancio y el miedo cantando canciones juntas para darse valor, compartiendo bocadillos y mantas. Una de las escenas más duras que Josefa recordaba era la de una compañera embarazada que perdió al bebé por el estrés y la presión del encierro, un recordatorio brutal del precio que estaban pagando.",
+      "image": "josefa_guardia.jpg"
+    },
+    {
+      "title": "Una victoria que cambió cosas",
+      "text": "Tras muchas horas de tensión, la dirección de la fábrica cedió y aceptó una subida de salarios. No fue una revolución, pero sí un cambio real en la vida cotidiana: significaba que muchas familias comerían un poco mejor. La noticia corrió por la comarca y otras fábricas textiles de Cataluña tomaron su encierro como ejemplo, convirtiendo la huelga de Manresa en una referencia de lucha obrera femenina en aquellos años.",
+      "image": "josefa_victoria.jpg"
+    },
+    {
+      "title": "Curiosidades y rasgos que la definen",
+      "text": "Josefa tenía fama de hablar claro y alto en el taller: si veía una injusticia, no se callaba. En los testimonios aparece como una mujer de manos callosas y voz fuerte, orgullosa de poder decir que fueron ellas, las obreras, quienes se quedaron dentro cuando muchos hombres se marcharon. A menudo contaba cómo cantaban para quitarse el miedo mientras los guardias las apuntaban desde fuera, y repetía que nunca se arrepintió del encierro porque gracias a aquella subida de sueldo 'se comió un poco mejor' en muchas casas.",
+      "image": "josefa_persona.jpg"
+    },
+    {
+      "title": "Un legado de dignidad obrera",
+      "text": "Josefa representa a las mujeres trabajadoras que desafiaron al franquismo desde su puesto de trabajo, sin grandes discursos pero con acciones muy concretas: parar máquinas, cerrar puertas y decir 'basta'. Vivió para ver la llegada de la democracia y, ya mayor, seguía contando la historia de la huelga a quien quisiera escucharla, para que nadie olvidara que la dignidad también se defiende en el suelo de fábrica.",
+      "image": "josefa_legado.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué decidieron hacer Josefa y sus compañeras para pedir mejores salarios?",
+      "options": [
+        "Encerrarse dentro de la fábrica y declararse en huelga",
+        "Presentar una carta formal al rey",
+        "Emigrar todas juntas a otro país"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Quiénes fueron principalmente las que se quedaron en el encierro?",
+      "options": [
+        "Las mujeres obreras; muchos hombres se marcharon",
+        "Solo los obreros hombres de mayor edad",
+        "Una mezcla equilibrada de hombres y mujeres"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué consiguieron con la huelga?",
+      "options": [
+        "Una subida de salarios que sirvió de ejemplo para otras fábricas",
+        "Ser todas despedidas sin indemnización",
+        "Cambiar la Constitución inmediatamente"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué hacían dentro de la fábrica para soportar el miedo?",
+      "options": [
+        "Cantaban y se apoyaban entre ellas mientras la Guardia Civil las rodeaba",
+        "Veían la televisión todo el día",
+        "Dormían hasta que pasara el peligro"
+      ],
+      "answer": 0
+    }
+  ]
+},
+{
+  "name": "Matilde Salvador i Segarra",
+  "city": "Castelló de la Plana",
+  "coords": [39.9864, -0.0513],
+  "category": "Compositora y pintora",
+  "type": "artistas",
+  "bio": "Compositora y pintora valenciana que creó óperas, ballets y canciones en plena dictadura, defendiendo el valenciano en la música culta y convirtiéndose en la primera mujer que estrenó una ópera en el Liceu.",
+  "born": 1918,
+  "died": 2007,
+  "areas": ["música", "ópera", "lengua", "cultura valenciana"],
+  "epoch": "1918–2007",
+  "slides": [
+    {
+      "title": "Una niña rodeada de arte",
+      "text": "Matilde Salvador nació en Castelló de la Plana en 1918, en una casa donde el arte era cosa de cada día: su padre tocaba el violín, su madre pintaba y su tía Joaquima era pianista y profesora. Desde pequeña escuchó ensayos, vio partituras por la mesa del comedor y se acostumbró a que lo normal era crear, no solo consumir. No soñaba con ser \"la señorita de compañía\" de un músico, sino con ser ella misma la que escribiera la música.",
+      "image": "matilde_infancia.jpg"
+    },
+    {
+      "title": "Formarse como compositora en un mundo de hombres",
+      "text": "Se trasladó a València para estudiar piano y composición en el Conservatorio, en una época en la que casi todas las alumnas eran intérpretes y casi ningún profesor esperaba que una mujer quisiera componer. Allí fue alumna del compositor Vicente Asencio, con quien más tarde se casaría y colaboraría en muchos proyectos. Mientras otras chicas estudiaban para ser maestras, Matilde llenaba cuadernos de pentagramas con ideas para ballets, canciones y óperas.",
+      "image": "matilde_conservatorio.jpg"
+    },
+    {
+      "title": "Música en valenciano bajo la censura franquista",
+      "text": "Durante el franquismo, cuando el uso público de las lenguas distintas del castellano estaba muy vigilado, Matilde decidió escribir muchas de sus obras sobre poemas en valenciano. Una de las primeras fue la ópera de títeres \"La filla del Rei Barbut\", que se representó en 1943 y que chocó con la censura por estar escrita en su lengua. Para ella, la combinación de música + valenciano era una forma de decir: nuestra cultura sigue viva aunque el régimen la quiera silenciar.",
+      "image": "matilde_valenciano.jpg"
+    },
+    {
+      "title": "Vinatea: la primera ópera de una mujer en el Liceu",
+      "text": "En 1974 llegó uno de sus grandes hitos: el estreno de su ópera \"Vinatea\" en el Gran Teatre del Liceu de Barcelona, convirtiéndose en la primera mujer que ponía una ópera propia en ese escenario. La obra, escrita en valenciano, cuenta la historia medieval de Francesc de Vinatea, un jurat de València que se enfrenta al rey para defender los fueros del pueblo. En plena dictadura tardía, Matilde llenó el Liceu con una historia de resistencia y derechos colectivos firmada por una mujer.",
+      "image": "matilde_vinatea.jpg"
+    },
+    {
+      "title": "Curiosidades y rasgos que enganchan",
+      "text": "Matilde decía que sus canciones eran como pequeñas escenas de teatro: le importaba tanto el gesto y la palabra como la melodía, por eso trabajó siempre muy pegada a la poesía. En su casa convivían el piano, los lienzos y los caballetes, porque además de componer pintaba y venía de una saga de artistas; sus amigos recuerdan el salón lleno de cuadros y partituras mezcladas. Aunque recibió premios y reconocimientos, durante años fue una figura discreta, una especie de \"gigante silenciosa\" de la música valenciana que hoy muchos proyectos educativos y culturales están redescubriendo.",
+      "image": "matilde_curiosidades.jpg"
+    },
+    {
+      "title": "Un legado que suena a futuro",
+      "text": "Además de óperas y ballets, escribió la \"Marxa de la Ciutat de Castelló\", que acabaría siendo adoptada como himno oficial de la ciudad. A lo largo de su vida recibió galardones como la Distinción al Mérito Cultural de la Generalitat Valenciana o la Creu de Sant Jordi, pero quizá su mayor legado es demostrar que una mujer podía escribir gran música, en su propia lengua, y ocupar escenarios donde antes solo había nombres masculinos.",
+      "image": "matilde_legado.jpg"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "¿En qué ciudad nació Matilde Salvador?",
+      "options": [
+        "En Castelló de la Plana",
+        "En València",
+        "En Barcelona"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué hizo histórica a su ópera \"Vinatea\"?",
+      "options": [
+        "Que fue la primera ópera compuesta por una mujer estrenada en el Liceu",
+        "Que fue la primera ópera en color de la televisión",
+        "Que estaba escrita solo para guitarra"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Por qué su trabajo en valenciano era valiente durante el franquismo?",
+      "options": [
+        "Porque el uso público de las lenguas distintas del castellano estaba muy vigilado",
+        "Porque estaba prohibido escribir música",
+        "Porque las mujeres no podían estudiar en conservatorios"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "¿Qué combinaba Matilde en su casa y en su obra?",
+      "options": [
+        "Música y pintura, partituras y lienzos por todas partes",
+        "Solo deporte y gimnasia",
+        "Cocina y costura sin relación con el arte"
+      ],
+      "answer": 0
+          }
+        ]
+    }
+]
