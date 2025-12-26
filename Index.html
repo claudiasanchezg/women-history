@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mujeres en la Historia de España</title>
+
+  <!-- Leaflet CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+
+  <!-- Estilos propios -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+  <header>
+    <h1>Mujeres en la Historia de España</h1>
+    <p>Mapa interactivo y relatos en formato carrusel</p>
+  </header>
+
+  <!-- LAYOUT PRINCIPAL -->
+  <main class="layout">
+    <!-- Sidebar izquierda -->
+    <section class="sidebar">
+      <h2>Explora</h2>
+
+      <button id="startQuiz" class="primary-btn">Descubre tu referente</button>
+
+      <div id="filters"></div>
+      <div id="list"></div>
+    </section>
+
+    <!-- Mapa -->
+    <section id="map"></section>
+  </main>
+
+  <!-- MODAL DE HISTORIA (incluye carrusel + quiz) -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="closeModal">Cerrar ✕</button>
+
+      <h2 id="modalName"></h2>
+      <div id="modalMeta"></div>
+
+      <!-- CARRUSEL -->
+      <div id="carouselContainer">
+        <div id="carouselSlides"></div>
+
+        <div id="carouselControls">
+          <button id="prevSlide" class="carousel-arrow">‹</button>
+          <div id="carouselDots"></div>
+          <button id="nextSlide" class="carousel-arrow">›</button>
+        </div>
+      </div>
+
+      <!-- QUIZ (OCULTO HASTA ÚLTIMO SLIDE) -->
+      <div id="womanQuiz" class="hidden" style="margin-top:1.5rem;">
+        <h3>Quiz</h3>
+
+        <div id="womanQuizContent"></div>
+
+        <button id="womanQuizCheck" class="primary-btn" style="margin-top:1rem;">
+          Comprobar respuestas
+        </button>
+
+        <div id="womanQuizResult" style="margin-top:1rem; font-weight:600;"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL DEL QUIZ "DESCUBRE TU REFERENTE" -->
+  <div id="quizModal" class="modal hidden">
+    <div class="modal-content">
+      <button id="closeQuiz">Cerrar ✕</button>
+      <h2>Quiz</h2>
+      <div id="quizStep"></div>
+    </div>
+  </div>
+
+  <!-- Sonido de éxito -->
+ <audio
+  id="successSound"
+  src="success-videogame-sfx-423626.mp3"
+  preload="auto">
+</audio>
+
+
+  <!-- Leaflet JS -->
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+
+  <!-- JS propio -->
+  <script src="script.js"></script>
+
+</body>
+</html>
+
